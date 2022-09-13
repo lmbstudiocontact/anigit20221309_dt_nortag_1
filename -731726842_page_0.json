@@ -1,0 +1,110 @@
+{
+  "id_nortag": "-731726842",
+  "index_page": 0,
+  "name_nortag": "Mine Akame Ga Kill",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "3557121",
+  "hc_lt_data_img": "-1766199339",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-1614806875",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "-1616536301",
+      "name_alb": "Akame ga Kill",
+      "total_img": 77
+    },
+    {
+      "id_alb": "505986750",
+      "name_alb": "Unrefined",
+      "total_img": 824
+    },
+    {
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-2060895651",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-447870424",
+      "id_img": "AkamegaKill_592276_crop2608_-897181344",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0TFETlVgloH5e7jHjaOX+913+35/T1LTXnTUOBHFtkpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0TFETlVgloH5e7jHjaOX+iG4UDpKyNUascnmc5B94QZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1616536301"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "-326078627",
+        "-369535327",
+        "-143534545",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1472115521",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "AkamegaKill_655700_crop2608_-296974850",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJO3UxZfwiVd/HSCEs/rBN7J/o5WhzL4h9S1iw5GdxL5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJO3UxZfwiVd/HSCEs/rBN+hsJgdPxlmoApLbqw0IhsZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "505986750",
+        "-1616536301"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-567885194",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "AkamegaKill_655700_crop2608_1164382599",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienA4G2ycxFKXkKGy2+Z+JRn491J2otyZZ89gZdTHZ+1pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiienA4G2ycxFKXkKGy2+Z+JRRTSxUYvXwYUHxv9DVaWPEpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1616536301",
+        "2024260576"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    }
+  ]
+}

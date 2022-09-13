@@ -1,0 +1,147 @@
+{
+  "id_nortag": "-1969429909",
+  "index_page": 0,
+  "name_nortag": "Kurobane Sayuki",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-1316116978",
+  "hc_lt_data_img": "-532277301",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "1660455608",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "168897357",
+      "name_alb": "Fortissimo",
+      "total_img": 9
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "674684732",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-306054798",
+      "id_img": "Fortissimo_853079_crop2608_-1097938176",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidn8AvELQduUmx02I+it2pFl5LB2wdO417sdhAlIdtH5ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidn8AvELQduUmx02I+it2pFoGUFJ0waUxYc3fHnP8s8spVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "168897357"
+      ],
+      "lt_id_sptag": [
+        "-14067806",
+        "-135339788",
+        "-1364967268",
+        "-326078627",
+        "-369402967",
+        "1600730941",
+        "1439812287"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "674684732",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1837626417",
+      "id_img": "Fortissimo_853080_crop2608_2003430550",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbtUm39EbQkFUuM0OcJCtQ+crTLIdFM0nYieHVV0G63ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbtUm39EbQkFUuM0OcJCtQJ/WT+xBzX1p7iuBffFGnqpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "168897357"
+      ],
+      "lt_id_sptag": [
+        "-14067806",
+        "-1364967268",
+        "-326078627",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "674684732",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-419216001",
+      "id_img": "Fortissimo_853121_crop2608_-1468155151",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiDkXecodXm/j2GH1FmJvQ8fREzac2IqCbqU0Z99CK3pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiDkXecodXm/j2GH1FmJvQlGG5D4+J88q5LvkodgmYq5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "168897357"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-326078627",
+        "1600730941",
+        "-143534545",
+        "1439812287",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
+    },
+    {
+      "id_sptag": "-135339788",
+      "key_sptag": "isGirlHairWhiteAnime",
+      "name_sptag": "Girls Hair White",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-369402967",
+      "key_sptag": "isGirlLoli",
+      "name_sptag": "Girls Loli",
+      "total": 2098
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    }
+  ]
+}

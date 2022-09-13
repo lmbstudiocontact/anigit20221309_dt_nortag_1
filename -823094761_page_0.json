@@ -1,0 +1,450 @@
+{
+  "id_nortag": "-823094761",
+  "index_page": 0,
+  "name_nortag": "Koyomi Araragi",
+  "total_img": 18,
+  "total_page": 0,
+  "hc_lt_alb": "35656340",
+  "hc_lt_data_img": "193614715",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-188811300",
+  "lt_alb": [
+    {
+      "id_alb": "505986750",
+      "name_alb": "Unrefined",
+      "total_img": 824
+    },
+    {
+      "id_alb": "1464359318",
+      "name_alb": "Monogatari Series",
+      "total_img": 217
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "2024260576",
+      "name_alb": "Couple",
+      "total_img": 2059
+    },
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-304986192",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_126315_crop2608_-1179568594",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFkbjwdkmcX0Qk9Y2Xro8csaSvMG4kX/kvGFKxD4z6/pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFkbjwdkmcX0Qk9Y2Xro8c4UQYMw5YCE6zbVKkzoRJhZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "505986750",
+        "1464359318"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-893766322",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-343476917",
+      "id_img": "MonogatariSeries_126315_crop2608_-426219689",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex82EMLc7v2P6JgCQLf10mty79HGUeU9hl107deSUGzZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiex82EMLc7v2P6JgCQLf10m7CIxHF2YuePcUmBRNgsR1ZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1464359318"
+      ],
+      "lt_id_sptag": [
+        "-2139213873",
+        "-1364967268",
+        "-1782893951",
+        "-326078627",
+        "-369535327",
+        "-143534545",
+        "1439812287",
+        "1911583362",
+        "-143528947"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-304986192",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_126315_crop2608_1791336859",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuyhE//4ST/HvKLlj8mLpAyoXuiUDDGxGU5GacdWDL7ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuyhE//4ST/HvKLlj8mLpAa49tZX5LGmxzdG4SfYuTmJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "505986750",
+        "1464359318"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-304986192",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_244435_crop2608_2019954941",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjIVrTlpEaNAldaZ+EuJfyFVxd/qoM7ISAKxzgfTi7F5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjIVrTlpEaNAldaZ+EuJfyM12xSq+jw8pm+rc4Cslw/JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "505986750",
+        "1464359318"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-498767965",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_334226_crop2608_1189118606",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVZhBFq1JZzntrnt3uiWKPQKT3GUvsmThYEONyZJjxjZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVZhBFq1JZzntrnt3uiWKP9BTyT8SCEm2xKLxIZ1x5YZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1464359318"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-498767965",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_334226_crop2608_1767069179",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicc7YQH6s9d3hQkNy4jK1zCfkMcuBUBWN/P3nh963FHG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicc7YQH6s9d3hQkNy4jK1zCg/fiS0aV3na/N4/19dpmm5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1464359318"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-498767965",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_455212_crop2608_1742490392",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidb9z53ziIVv9g6lDdAF3SxFM7Lrd6pjmZjYIRmkthC4ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidb9z53ziIVv9g6lDdAF3SxLHuWmQmB9pqX4ND/ZovcBpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1464359318"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-893766322",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "573902571",
+      "id_img": "MonogatariSeries_715278_crop2608_-2105086399",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6FsqEvVbEsdA8EMykaA9LvTD9nmL+XcUaCO05rQzP3JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6FsqEvVbEsdA8EMykaA9LTRJL0t7mmTA9d8rgyST0o5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1464359318"
+      ],
+      "lt_id_sptag": [
+        "1371605601",
+        "-326078627",
+        "1129122964",
+        "71899412",
+        "-143534545",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-893766322",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "876762450",
+      "id_img": "MonogatariSeries_715278_crop2608_-540988924",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRBNlnQwgGXxlK6Sg7hMCfmbfMCxjkQfNCG0MN9w7U7pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRBNlnQwgGXxlK6Sg7hMCfMsbHlbzkrsRWfdmIdI3dS5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1464359318"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "154003721",
+        "635632331",
+        "-326078627",
+        "410439701",
+        "1911583362",
+        "-143528947"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-304986192",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_715278_crop2608_1286076401",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKsyRCwojo0ZhhuA47irXvW+46HZWUIUSh8IbRD+BnFZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKsyRCwojo0ZhhuA47irXv3K0vCfd8+jka1qaGLxx/LJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "505986750",
+        "1464359318"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-498767965",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_775908_crop2608_-739285939",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOM1fnLqRp7SGXawvuqMsvRMAAnzLz8Xm9lf534SU3oJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOM1fnLqRp7SGXawvuqMsvkRSx2J1mfxtRuoJUVeLuwpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1464359318"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-498767965",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_775908_crop2608_195805816",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMqCaqiy+biIxF+PcI+10thBGx2GmuAAAhOzCyAW/sspVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMqCaqiy+biIxF+PcI+10t7MrwkIOCd9Qkgh2lcmpju5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1464359318"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1253385637",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_790634_crop2608_940831458",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicN1ZpEkamFxKjcER/01/4IPGl+/r9Sssv2TDTiJ1vX/JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicN1ZpEkamFxKjcER/01/4I4bLHf9E/SnBRtbgP/MeQFJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1464359318",
+        "2024260576"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1098830892",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "862791854",
+      "id_img": "MonogatariSeries_826584_crop2608_849862926",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifx9594ACIq0KhECa9IwDxAXntPQyNLjAs+7q7QF/o8nJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifx9594ACIq0KhECa9IwDxAzva967whFxEt11e4J9L7D5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "1464359318"
+      ],
+      "lt_id_sptag": [
+        "82870",
+        "1736318786"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1253385637",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_827009_crop2608_413307253",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFRr4CTFGb41BBw97t0mWWOQltjHD9n2EUpVib+caqT5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFRr4CTFGb41BBw97t0mWWKznUAviEL9iuNe1hRAudn5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1464359318",
+        "2024260576"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-893766322",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1382051123",
+      "id_img": "MonogatariSeries_913735_crop2608_-1841332169",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp51sEUJU6wNTXuukaQ1+mVIkz9eot0i53Pw28iq3eUJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp51sEUJU6wNTXuukaQ1+mnyKMlmtc6h/v4kmeCL7oO5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1464359318"
+      ],
+      "lt_id_sptag": [
+        "-1364967268",
+        "-326078627",
+        "-1743477818",
+        "71899412",
+        "-143534545",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-893766322",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-600017248",
+      "id_img": "MonogatariSeries_914876_crop2608_-2019679724",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUACt+Qwg3KgY2Uu6YJ6PRlngX084LbH0QuotMbBe6VZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUACt+Qwg3KgY2Uu6YJ6PROTwINGUCF2mcJlk1sKXFW5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1464359318"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "82870",
+        "1211227273",
+        "-1415763167",
+        "126637389",
+        "-326078627",
+        "1600730941",
+        "-369535327",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1253385637",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "MonogatariSeries_455100_crop2608_1768563172",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0fcyCXcLIqHxVqEYDQP2CVnBVVSHBaPKrCquFdDIB/5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0fcyCXcLIqHxVqEYDQP2Cc324vzPkjfC0NvXHQbDJdpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1464359318",
+        "2024260576"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "1371605601",
+      "key_sptag": "isGirlHoodieAnime",
+      "name_sptag": "Girls Hoodie",
+      "total": 2667
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "71899412",
+      "key_sptag": "isGirlHairVioletAnime",
+      "name_sptag": "Girls Hair Violet",
+      "total": 2650
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "635632331",
+      "key_sptag": "isGirlEyesPinkAnime",
+      "name_sptag": "Girls Eyes Pink",
+      "total": 1874
+    },
+    {
+      "id_sptag": "410439701",
+      "key_sptag": "isGirlEarsNekoAnime",
+      "name_sptag": "Girls Ears Neko",
+      "total": 7031
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
+    },
+    {
+      "id_sptag": "1736318786",
+      "key_sptag": "isBoySad",
+      "name_sptag": "Boy Sad",
+      "total": 1551
+    },
+    {
+      "id_sptag": "-1743477818",
+      "key_sptag": "isGirlWaterRainAnime",
+      "name_sptag": "Girls Water Rain",
+      "total": 2954
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
+    {
+      "id_sptag": "-1415763167",
+      "key_sptag": "isGirlGlassesAnime",
+      "name_sptag": "Girls Glasses",
+      "total": 2385
+    },
+    {
+      "id_sptag": "126637389",
+      "key_sptag": "isGirlSadAnime",
+      "name_sptag": "Girls Sad",
+      "total": 10506
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    }
+  ]
+}

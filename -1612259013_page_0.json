@@ -1,0 +1,209 @@
+{
+  "id_nortag": "-1612259013",
+  "index_page": 0,
+  "name_nortag": "Lyria Granblue Fantasy",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "-1503572489",
+  "hc_lt_data_img": "-1495427362",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-567122074",
+  "lt_alb": [
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    },
+    {
+      "id_alb": "-892807948",
+      "name_alb": "Crossover",
+      "total_img": 505
+    },
+    {
+      "id_alb": "-1435405384",
+      "name_alb": "Granblue Fantasy",
+      "total_img": 44
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "549335212",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "198661558",
+      "id_img": "Crossover_922755_crop2608_-2092259186",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif7t2ZkPGVnjlW5N1AKTwnZDO58LyEn12Bbu/6/YXuj15Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif7t2ZkPGVnjlW5N1AKTwnZ6oZCkVaemj6Edj5LZEVRV5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-892807948"
+      ],
+      "lt_id_sptag": [
+        "-326078627",
+        "1600730941",
+        "-143534545",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "549335212",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1663887591",
+      "id_img": "Crossover_922755_crop2608_1345143031",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/q1566MCnjx62oQhCAF8RVvrQKaucRp6wAKrrYx0OOZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/q1566MCnjx62oQhCAF8RN3kDZsYrvmJmy3B55+ISSZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-892807948"
+      ],
+      "lt_id_sptag": [
+        "-14067806",
+        "891390002",
+        "-135339788",
+        "-2139213873",
+        "1600730941",
+        "1129122964",
+        "410439701",
+        "1911583362",
+        "-143528947",
+        "-1786946560"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-174266286",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-440436945",
+      "id_img": "GranblueFantasy_837918_crop2608_-1817958927",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvmI8GdkWeQKb9wymScadsFVyxFsW5BR7vxDc2L9/xaJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvmI8GdkWeQKb9wymScadsAHWI42buuUnb02OIYlIj65Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1435405384"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "154003721",
+        "-1364967268",
+        "-326078627",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-174266286",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-2124745635",
+      "id_img": "GranblueFantasy_950117_crop2608_-1560230144",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXcXVO5WNNYMX8tNOMxdn5UQUDl7XhWcaXEPRSruGrD5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXcXVO5WNNYMX8tNOMxdn5Hc0iVMNCKNrQAVxINaFjsJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1435405384"
+      ],
+      "lt_id_sptag": [
+        "-326078627",
+        "-143534545",
+        "1439812287",
+        "635218351"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "-135339788",
+      "key_sptag": "isGirlHairWhiteAnime",
+      "name_sptag": "Girls Hair White",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "410439701",
+      "key_sptag": "isGirlEarsNekoAnime",
+      "name_sptag": "Girls Ears Neko",
+      "total": 7031
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-1786946560",
+      "key_sptag": "isGirlHair2ColorAnime",
+      "name_sptag": "Girls Hair 2 Color",
+      "total": 1686
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    }
+  ]
+}

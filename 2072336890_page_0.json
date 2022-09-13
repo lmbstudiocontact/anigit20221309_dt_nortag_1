@@ -1,0 +1,69 @@
+{
+  "id_nortag": "2072336890",
+  "index_page": 0,
+  "name_nortag": "Jade Houseki no Kuni",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "133154315",
+  "hc_lt_data_img": "959509024",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-290786053",
+  "lt_alb": [
+    {
+      "id_alb": "-890129918",
+      "name_alb": "Houseki no Kuni",
+      "total_img": 69
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "1888496238",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "-1075843591",
+      "id_img": "HousekinoKuni_907347_crop2608_62092977",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierd1UprPA0HWkLfHVm6dqhYaEc/4hK41d5ioU0P5QOV5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierd1UprPA0HWkLfHVm6dqhj5zvj2JXKXEAt/4Eiy2qb5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-890129918",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "-2139213873",
+        "-143534545",
+        "1911583362",
+        "635218351"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    }
+  ]
+}

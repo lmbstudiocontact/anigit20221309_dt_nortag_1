@@ -1,0 +1,64 @@
+{
+  "id_nortag": "1684813759",
+  "index_page": 0,
+  "name_nortag": "Igneel Fairy Tail",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "-680292936",
+  "hc_lt_data_img": "1992937843",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "",
+  "lt_alb": [
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
+    },
+    {
+      "id_alb": "-892807948",
+      "name_alb": "Crossover",
+      "total_img": 505
+    },
+    {
+      "id_alb": "-196492293",
+      "name_alb": "Fairy Tail",
+      "total_img": 184
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-1753034870",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_952410_crop2608_934264013",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZdfZMKoAQNm0s7hohfVWxtr3mMJnS4+5aOP2hCgcAe5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZdfZMKoAQNm0s7hohfVWx2n/Q2jNcaDdYWKFUjBF48pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "66988",
+        "-892807948"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-139700097",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "FairyTail_735721_crop2608_1221119657",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8oVyMpcIeKzGfSubfne3uPmx3grzzp9qvEyRAUXAf+ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8oVyMpcIeKzGfSubfne3ucD783JvrON9BuPCJLTilXpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-196492293"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-139700097",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "FairyTail_764169_crop2608_1583195979",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidr9s6aFjk6ey54ydVQnOqrIluOmC7LQYEGh84x9KId95Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidr9s6aFjk6ey54ydVQnOqrESKkkYYohBZv885vzK56LZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-196492293"
+      ]
+    }
+  ]
+}

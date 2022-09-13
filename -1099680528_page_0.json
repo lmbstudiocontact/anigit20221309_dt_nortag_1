@@ -1,0 +1,59 @@
+{
+  "id_nortag": "-1099680528",
+  "index_page": 0,
+  "name_nortag": "Kagetane Hiruko",
+  "total_img": 3,
+  "total_page": 0,
+  "hc_lt_alb": "62688795",
+  "hc_lt_data_img": "1399611510",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "",
+  "lt_alb": [
+    {
+      "id_alb": "834359427",
+      "name_alb": "Black Bullet",
+      "total_img": 29
+    },
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "967113210",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "BlackBullet_534931_crop2608_-362997487",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidg8DIVjjM3LUL8f3AHXt/xwMcLMV/PD/h54uyWyPb7p5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidg8DIVjjM3LUL8f3AHXt/xilhDDqqCuOy4iorr95mjQJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "834359427"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-32726145",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "BlackBullet_633111_crop2608_-990223989",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkf3lQXDFvUZG98JjYszBfx+EfDgAlGtLhv3Ppg2JSGJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkf3lQXDFvUZG98JjYszBfxRQKf/GhtJ60auCPX1eTMZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "834359427",
+        "66988"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "967113210",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "BlackBullet_701898_crop2608_962449219",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8ZjBi57OLltk13pv5z+gn2X/gEFgkqphO4SLLX6u/4ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8ZjBi57OLltk13pv5z+gnKulWVbg2fTTyiyIEJrchfpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "834359427"
+      ]
+    }
+  ]
+}

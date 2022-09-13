@@ -1,0 +1,71 @@
+{
+  "id_nortag": "-1390345665",
+  "index_page": 0,
+  "name_nortag": "Ikoma Koutetsujou no Kabaneri",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "-384066331",
+  "hc_lt_data_img": "-2015752291",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "",
+  "lt_alb": [
+    {
+      "id_alb": "1954448411",
+      "name_alb": "Kabaneri of the Iron Fortress",
+      "total_img": 51
+    },
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-842502089",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "KabanerioftheIronFortress_691917_crop2608_-641693243",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicjwqOI6/AfPN4l0nNwDEDgk2vAV7FnZZxJqzOTHJzrMpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicjwqOI6/AfPN4l0nNwDEDgERVbxvvbUce0HqepManAOpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1954448411",
+        "66988"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-842502089",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "KabanerioftheIronFortress_693170_crop2608_-1308579474",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQPydDAmB5PT1igaB1N7o5UziAlq+hePAqlpfoTrG+PJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQPydDAmB5PT1igaB1N7o5n4kmF32Ily9V1c6QKZaba5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1954448411",
+        "66988"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1633728066",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "KabanerioftheIronFortress_693170_crop2608_1690540324",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidad3GZslYPZ9zzc0RuX7pVFV2Bd2F00tvEIp8pLUyRyZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidad3GZslYPZ9zzc0RuX7pVlMSDbZjUgxAgJa1IHcb+MZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1954448411"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1633728066",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "",
+      "id_img": "KabanerioftheIronFortress_701379_crop2608_-1618230255",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieojJwV3tl9J2CPZKWx1SdHQO+8lnnANy5NLiswPtWA8JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieojJwV3tl9J2CPZKWx1SdHGdjkgXchiRHjTnhWpqYaQpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1954448411"
+      ]
+    }
+  ]
+}

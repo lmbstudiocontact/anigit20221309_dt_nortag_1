@@ -1,0 +1,97 @@
+{
+  "id_nortag": "-1538408392",
+  "index_page": 0,
+  "name_nortag": "Holiday",
+  "total_img": 1,
+  "total_page": 0,
+  "hc_lt_alb": "543164458",
+  "hc_lt_data_img": "-821702657",
+  "hc_lt_nortag": "",
+  "hc_lt_sptag": "-1195183587",
+  "lt_alb": [
+    {
+      "id_alb": "-2081278123",
+      "name_alb": "Vocaloid",
+      "total_img": 1338
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "569355733",
+      "hc_lt_id_nortag": "",
+      "hc_lt_id_sptag": "1139991976",
+      "id_img": "Vocaloid_774906_crop2608_2045337959",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicI5NOYq67rsZp44adi7ZcF0scX6272UAV3sjla7Ft8qJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicI5NOYq67rsZp44adi7ZcF2gFpeoqPkqiOV6FujhZKlZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2081278123",
+        "68811063"
+      ],
+      "lt_id_sptag": [
+        "-369710484",
+        "-1811357781",
+        "-326078627",
+        "-369535327",
+        "-143534545",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-369710484",
+      "key_sptag": "isGirlBellAnime",
+      "name_sptag": "Girls Bell",
+      "total": 927
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-369535327",
+      "key_sptag": "isGirlHatsAnime",
+      "name_sptag": "Girls Hats",
+      "total": 11965
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    }
+  ]
+}
