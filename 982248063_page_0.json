@@ -4,65 +4,26 @@
   "name_nortag": "Mizusaka Miki",
   "total_img": 3,
   "total_page": 0,
-  "hc_lt_alb": "-1316116978",
-  "hc_lt_data_img": "-1975715946",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "767926496",
+  "hc_lt_alb": "-756763180",
+  "hc_lt_data_img": "-1380819994",
+  "hc_lt_nortag": "713806304",
+  "hc_lt_sptag": "-558692138",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "168897357",
       "name_alb": "Fortissimo",
       "total_img": 9
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "674684732",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "420795693",
-      "id_img": "Fortissimo_853120_crop2608_2124978013",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+JtL7VU0O+huELhTh9HV0fzhHCMem7v7FXSvNmoveHJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+JtL7VU0O+huELhTh9HV0nTYi3JMWXBdfuw2rN+pW35Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "168897357"
-      ],
-      "lt_id_sptag": [
-        "891390002",
-        "-326078627",
-        "-143534545",
-        "1911583362",
-        "635218351"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "674684732",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-419216001",
-      "id_img": "Fortissimo_853121_crop2608_-1468155151",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiDkXecodXm/j2GH1FmJvQ8fREzac2IqCbqU0Z99CK3pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiDkXecodXm/j2GH1FmJvQlGG5D4+J88q5LvkodgmYq5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "168897357"
-      ],
-      "lt_id_sptag": [
-        "891390002",
-        "-326078627",
-        "1600730941",
-        "-143534545",
-        "1439812287",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "674684732",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1774149577",
       "hc_lt_id_sptag": "223832889",
       "id_img": "Fortissimo_853123_crop2608_-1942301152",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidfAO0YfDN1Juy2OjDYZOVr1Fb+ip8lAzZCSxdQ/YT0QZVy4706IhQgSYlgwrgVRHU=",
@@ -70,6 +31,9 @@
       "lt_id_alb": [
         "68811063",
         "168897357"
+      ],
+      "list_id_nortag": [
+        "982248063"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -80,32 +44,72 @@
         "1911583362",
         "635218351"
       ]
+    },
+    {
+      "hc_lt_id_alb": "674684732",
+      "hc_lt_id_nortag": "1774149577",
+      "hc_lt_id_sptag": "420795693",
+      "id_img": "Fortissimo_853120_crop2608_2124978013",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+JtL7VU0O+huELhTh9HV0fzhHCMem7v7FXSvNmoveHJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+JtL7VU0O+huELhTh9HV0nTYi3JMWXBdfuw2rN+pW35Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "168897357"
+      ],
+      "list_id_nortag": [
+        "982248063"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-326078627",
+        "-143534545",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "674684732",
+      "hc_lt_id_nortag": "-872060778",
+      "hc_lt_id_sptag": "-419216001",
+      "id_img": "Fortissimo_853121_crop2608_-1468155151",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiDkXecodXm/j2GH1FmJvQ8fREzac2IqCbqU0Z99CK3pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiDkXecodXm/j2GH1FmJvQlGG5D4+J88q5LvkodgmYq5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "168897357"
+      ],
+      "list_id_nortag": [
+        "982248063",
+        "-1969429909"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-326078627",
+        "1600730941",
+        "-143534545",
+        "1439812287",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1969429909",
+      "name_nortag": "Kurobane Sayuki",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "982248063",
+      "name_nortag": "Mizusaka Miki",
+      "total_img": 3
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
     },
     {
       "id_sptag": "635218351",
@@ -114,10 +118,22 @@
       "total": 25656
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-369386728",
+      "key_sptag": "isGirlMaidAnime",
+      "name_sptag": "Girls Maid",
+      "total": 2625
     },
     {
       "id_sptag": "1439812287",
@@ -126,10 +142,16 @@
       "total": 24284
     },
     {
-      "id_sptag": "-369386728",
-      "key_sptag": "isGirlMaidAnime",
-      "name_sptag": "Girls Maid",
-      "total": 2625
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     }
   ]
 }

@@ -5,9 +5,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "2003715609",
-  "hc_lt_data_img": "810939866",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1062254893",
+  "hc_lt_data_img": "-1910869862",
+  "hc_lt_nortag": "-642487975",
+  "hc_lt_sptag": "-162835835",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1859548658",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-459294101",
       "hc_lt_id_sptag": "-937757215",
       "id_img": "MagusTale_215740_crop2608_-2056142761",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmPiSXr9MxhaNAmjHn4GhKWxrM2zfnmr04fLKD7/33ApVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,9 @@
       "lt_id_alb": [
         "68811063",
         "1727996021"
+      ],
+      "list_id_nortag": [
+        "1529652895"
       ],
       "lt_id_sptag": [
         "-2139213873",
@@ -42,7 +45,30 @@
     },
     {
       "hc_lt_id_alb": "-1859548658",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1498949039",
+      "hc_lt_id_sptag": "-1655779682",
+      "id_img": "MagusTale_721161_crop2608_624377570",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4KLSNxCgOH5H0N7+sIyQK1qfGRT3yYGg5v6S4theybpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4KLSNxCgOH5H0N7+sIyQKOmAFbhrN/vgKdQB+nyXo55Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "1727996021"
+      ],
+      "list_id_nortag": [
+        "1529652895",
+        "2076425"
+      ],
+      "lt_id_sptag": [
+        "154003721",
+        "-2139213873",
+        "1211227273",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1859548658",
+      "hc_lt_id_nortag": "1498949039",
       "hc_lt_id_sptag": "-2121303503",
       "id_img": "MagusTale_721161_crop2608_113520",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2DPSs2SkmD6L+11nk1Y+qpezb5CzztJfHkYnCFPh+TJVy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +76,10 @@
       "lt_id_alb": [
         "68811063",
         "1727996021"
+      ],
+      "list_id_nortag": [
+        "1529652895",
+        "2076425"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -62,26 +92,7 @@
     },
     {
       "hc_lt_id_alb": "-1859548658",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-1655779682",
-      "id_img": "MagusTale_721161_crop2608_624377570",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4KLSNxCgOH5H0N7+sIyQK1qfGRT3yYGg5v6S4theybpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4KLSNxCgOH5H0N7+sIyQKOmAFbhrN/vgKdQB+nyXo55Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "1727996021"
-      ],
-      "lt_id_sptag": [
-        "154003721",
-        "-2139213873",
-        "1211227273",
-        "1439812287",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1859548658",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-459294101",
       "hc_lt_id_sptag": "465859157",
       "id_img": "MagusTale_215745_crop2608_688923978",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie3AwWBGiHL09KIjaYIAEqrVRzTYLugvmlB7WvNF9c5h5Vy4706IhQgSYlgwrgVRHU=",
@@ -89,6 +100,9 @@
       "lt_id_alb": [
         "68811063",
         "1727996021"
+      ],
+      "list_id_nortag": [
+        "1529652895"
       ],
       "lt_id_sptag": [
         "-120608061",
@@ -98,12 +112,24 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "2076425",
+      "name_nortag": "Book",
+      "total_img": 116
+    },
+    {
+      "id_nortag": "1529652895",
+      "name_nortag": "Koyuki Amagase",
+      "total_img": 4
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
     },
     {
       "id_sptag": "1211227273",
@@ -112,40 +138,16 @@
       "total": 6605
     },
     {
-      "id_sptag": "-143380300",
-      "key_sptag": "isGirlHairGreyAnime",
-      "name_sptag": "Girls Hair Grey",
-      "total": 9239
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
       "id_sptag": "-143528947",
       "key_sptag": "isGirlHairBrownAnime",
       "name_sptag": "Girls Hair Brow",
       "total": 13760
     },
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
+      "id_sptag": "-143380300",
+      "key_sptag": "isGirlHairGreyAnime",
+      "name_sptag": "Girls Hair Grey",
+      "total": 9239
     },
     {
       "id_sptag": "-120608061",
@@ -154,10 +156,34 @@
       "total": 4128
     },
     {
-      "id_sptag": "936615491",
-      "key_sptag": "isGirlEyesOrangeAnime",
-      "name_sptag": "Girls Eyes Orange",
-      "total": 3828
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

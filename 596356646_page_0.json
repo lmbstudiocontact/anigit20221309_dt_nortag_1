@@ -4,26 +4,81 @@
   "name_nortag": "Izuru Kira",
   "total_img": 6,
   "total_page": 0,
-  "hc_lt_alb": "1805587911",
-  "hc_lt_data_img": "78921216",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "712844408",
+  "hc_lt_alb": "2131671995",
+  "hc_lt_data_img": "1220854650",
+  "hc_lt_nortag": "-201087555",
+  "hc_lt_sptag": "-1030132118",
   "lt_alb": [
-    {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
-    },
     {
       "id_alb": "1992369515",
       "name_alb": "Bleach",
       "total_img": 460
+    },
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
     }
   ],
   "lt_data_img": [
     {
+      "hc_lt_id_alb": "-1786723901",
+      "hc_lt_id_nortag": "1036795047",
+      "hc_lt_id_sptag": "",
+      "id_img": "Bleach_294332_crop2608_1162972491",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9eWoOpBBWDfGh0N2DZ7UoIYAIy9+pOJtYBt3WBU9vJ5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9eWoOpBBWDfGh0N2DZ7Uooe+TV5D+Ybzt39HRkuKxS5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1992369515"
+      ],
+      "list_id_nortag": [
+        "2103012692",
+        "1034334144",
+        "-794593139",
+        "596356646"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1786723901",
+      "hc_lt_id_nortag": "-1365229454",
+      "hc_lt_id_sptag": "",
+      "id_img": "Bleach_259740_crop2608_370905302",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickP2+hIIwUrETF8dOPql/Z+mu9o7wTZ8AM2Hzkk4uQv5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickP2+hIIwUrETF8dOPql/Zjl5uMWFjvcCzDVsD9G2kmZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1992369515"
+      ],
+      "list_id_nortag": [
+        "1034334144",
+        "579130651",
+        "603921066",
+        "-251167665",
+        "-1741171287",
+        "596356646"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1786723901",
+      "hc_lt_id_nortag": "-1365229454",
+      "hc_lt_id_sptag": "",
+      "id_img": "Bleach_259740_crop2608_1443099203",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidy1GDHpw58UwL9FqVXKq/+RVVvrlM1JvDrcyzOazq/uZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidy1GDHpw58UwL9FqVXKq/+BWCP3ocNorZ0StwUP8VzbpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "1992369515"
+      ],
+      "list_id_nortag": [
+        "1034334144",
+        "579130651",
+        "603921066",
+        "-251167665",
+        "-1741171287",
+        "596356646"
+      ]
+    },
+    {
       "hc_lt_id_alb": "-189125044",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1194287087",
       "hc_lt_id_sptag": "",
       "id_img": "Bleach_259555_crop2608_-321804680",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAoi1oOqWnXbqdMB8uix6aRAEvcyOOLw44qAM7TRsCGZVy4706IhQgSYlgwrgVRHU=",
@@ -31,11 +86,15 @@
       "lt_id_alb": [
         "66988",
         "1992369515"
+      ],
+      "list_id_nortag": [
+        "2145389318",
+        "596356646"
       ]
     },
     {
       "hc_lt_id_alb": "-189125044",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1194287087",
       "hc_lt_id_sptag": "862791854",
       "id_img": "Bleach_259555_crop2608_394657869",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifnj9oaMjsQ+HYycqDaXtaq5p+q9w+5lU/80asK4P4hKJVy4706IhQgSYlgwrgVRHU=",
@@ -44,6 +103,10 @@
         "66988",
         "1992369515"
       ],
+      "list_id_nortag": [
+        "2145389318",
+        "596356646"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
@@ -51,61 +114,83 @@
     },
     {
       "hc_lt_id_alb": "-1786723901",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Bleach_259740_crop2608_1443099203",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidy1GDHpw58UwL9FqVXKq/+RVVvrlM1JvDrcyzOazq/uZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidy1GDHpw58UwL9FqVXKq/+BWCP3ocNorZ0StwUP8VzbpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1992369515"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1786723901",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Bleach_259740_crop2608_370905302",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickP2+hIIwUrETF8dOPql/Z+mu9o7wTZ8AM2Hzkk4uQv5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiickP2+hIIwUrETF8dOPql/Zjl5uMWFjvcCzDVsD9G2kmZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1992369515"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1786723901",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1365229454",
       "hc_lt_id_sptag": "",
       "id_img": "Bleach_259740_crop2608_393830831",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKmpba5OeBv03FFCbjcv3Uoi0I8bRay8Jcgg1fs1mnfJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKmpba5OeBv03FFCbjcv3UTjmUAY8B8AN8eGG84SNYr5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1992369515"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1786723901",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Bleach_294332_crop2608_1162972491",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9eWoOpBBWDfGh0N2DZ7UoIYAIy9+pOJtYBt3WBU9vJ5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9eWoOpBBWDfGh0N2DZ7Uooe+TV5D+Ybzt39HRkuKxS5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "1992369515"
+      ],
+      "list_id_nortag": [
+        "1034334144",
+        "579130651",
+        "603921066",
+        "-251167665",
+        "-1741171287",
+        "596356646"
       ]
     }
   ],
-  "lt_sptag": [
+  "lt_nortag": [
     {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
+      "id_nortag": "2103012692",
+      "name_nortag": "Byakuya Kuchiki",
+      "total_img": 36
     },
+    {
+      "id_nortag": "2145389318",
+      "name_nortag": "Gin Ichimaru",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "579130651",
+      "name_nortag": "Hisagi Shuhei",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "596356646",
+      "name_nortag": "Izuru Kira",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-251167665",
+      "name_nortag": "Kaien Shiba",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-1741171287",
+      "name_nortag": "Momo Hinamori",
+      "total_img": 16
+    },
+    {
+      "id_nortag": "603921066",
+      "name_nortag": "Rangiku Matsumoto",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "1034334144",
+      "name_nortag": "Renji Abarai",
+      "total_img": 48
+    },
+    {
+      "id_nortag": "-794593139",
+      "name_nortag": "Toshiro Hitsugaya",
+      "total_img": 73
+    }
+  ],
+  "lt_sptag": [
     {
       "id_sptag": "1736318786",
       "key_sptag": "isBoySad",
       "name_sptag": "Boy Sad",
       "total": 1551
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

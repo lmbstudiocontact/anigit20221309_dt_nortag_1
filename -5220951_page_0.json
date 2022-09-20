@@ -5,8 +5,8 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "1890401558",
-  "hc_lt_data_img": "-1746721044",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "571708653",
+  "hc_lt_nortag": "241628988",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1293590204",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1389378771",
       "hc_lt_id_sptag": "",
       "id_img": "Overlord_934016_crop2608_1698360079",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTvUWkxpmlIIdGMP++JMIiyPjjIKoRHVASnkphZTnpGZVy4706IhQgSYlgwrgVRHU=",
@@ -31,11 +31,19 @@
       "lt_id_alb": [
         "66988",
         "594468329"
+      ],
+      "list_id_nortag": [
+        "2092391533",
+        "79955773",
+        "2047061853",
+        "-5220951",
+        "2039534506",
+        "-1967410776"
       ]
     },
     {
       "hc_lt_id_alb": "1293590204",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "102394290",
       "hc_lt_id_sptag": "",
       "id_img": "Overlord_935156_crop2608_1542900863",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZLYKpzng8SiEXIE3RzaFVKgCkDRRvV/+G2j63fNV7G5Vy4706IhQgSYlgwrgVRHU=",
@@ -43,7 +51,57 @@
       "lt_id_alb": [
         "66988",
         "594468329"
+      ],
+      "list_id_nortag": [
+        "79955773",
+        "2047061853",
+        "-5220951",
+        "-1967410776",
+        "65916619",
+        "-1505748702"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1967410776",
+      "name_nortag": "Ainz Ooal Gown",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "2039534506",
+      "name_nortag": "Dagger",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "65916619",
+      "name_nortag": "Demon",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-5220951",
+      "name_nortag": "Magician",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "2047061853",
+      "name_nortag": "Overlord Anime",
+      "total_img": 31
+    },
+    {
+      "id_nortag": "2092391533",
+      "name_nortag": "Skeleton",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "79955773",
+      "name_nortag": "Skull",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "-1505748702",
+      "name_nortag": "Warrior",
+      "total_img": 21
     }
   ]
 }

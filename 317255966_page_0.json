@@ -5,9 +5,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "232043518",
-  "hc_lt_data_img": "219990392",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1478281827",
+  "hc_lt_data_img": "-470516638",
+  "hc_lt_nortag": "-607068477",
+  "hc_lt_sptag": "10737239",
   "lt_alb": [
     {
       "id_alb": "-1259304870",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "546908460",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1594132130",
       "hc_lt_id_sptag": "1940772223",
       "id_img": "ArpeggioofBlueSteel_704197_crop2608_1342762954",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsZkfZcVeAZ2upfjCbNql0L7Q91lgUj3KO+VSmFTI+U5Vy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,10 @@
       "lt_id_alb": [
         "-1259304870",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "317255966",
+        "-1933944809"
       ],
       "lt_id_sptag": [
         "154003721",
@@ -41,12 +45,24 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1933944809",
+      "name_nortag": "Kongou Arpeggio Of Blue Steel",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "317255966",
+      "name_nortag": "Maya Arpeggio Of Blue Steel",
+      "total_img": 1
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
     },
     {
       "id_sptag": "-1364967268",
@@ -55,16 +71,16 @@
       "total": 12697
     },
     {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
-    },
-    {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
     },
     {
       "id_sptag": "1911583362",

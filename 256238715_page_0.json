@@ -5,9 +5,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "262183128",
-  "hc_lt_data_img": "1442016677",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1218785939",
+  "hc_lt_data_img": "1814320563",
+  "hc_lt_nortag": "1943949124",
+  "hc_lt_sptag": "-419180695",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-175776337",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1959717325",
       "hc_lt_id_sptag": "-621844058",
       "id_img": "Kakegurui_860279_crop2608_-307900149",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegAFvjUxGGQVsuh9T4LD5yzLgwa2b6/Fkq+vztc4U6LJVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,10 @@
       "lt_id_alb": [
         "68811063",
         "-1697308792"
+      ],
+      "list_id_nortag": [
+        "1508336346",
+        "256238715"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -45,17 +49,57 @@
     },
     {
       "hc_lt_id_alb": "219222020",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-307253875",
       "hc_lt_id_sptag": "",
       "id_img": "Kakegurui_860285_crop2608_1741293030",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp12BF64XDAaP+nTcmgsLwLnSsXicD4PQYPPIntI+kSZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidp12BF64XDAaP+nTcmgsLwGv4xvXdf6yTOtGxZvNgI/pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1697308792"
+      ],
+      "list_id_nortag": [
+        "1508336346",
+        "256238715",
+        "-1735371244"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "256238715",
+      "name_nortag": "Kirari Momobami",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "-1735371244",
+      "name_nortag": "Meari Saotome",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "1508336346",
+      "name_nortag": "Yumeko Jabami",
+      "total_img": 32
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
+    },
     {
       "id_sptag": "-154622774",
       "key_sptag": "isGirlHairBlackAnime",
@@ -69,40 +113,22 @@
       "total": 16300
     },
     {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
-    },
-    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
     },
     {
       "id_sptag": "1911583362",
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
     }
   ]
 }

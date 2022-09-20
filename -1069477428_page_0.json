@@ -5,8 +5,8 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-1646000020",
-  "hc_lt_data_img": "1658812025",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1954765190",
+  "hc_lt_nortag": "-1417430005",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-988019542",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "765309773",
       "hc_lt_id_sptag": "",
       "id_img": "PandoraHearts_890265_crop2608_365348527",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYxdUSc+7qjUZ610Ceui5tdXmUHbyUXNGD/wCGVMxOK5Vy4706IhQgSYlgwrgVRHU=",
@@ -31,7 +31,23 @@
       "lt_id_alb": [
         "66988",
         "-660323498"
+      ],
+      "list_id_nortag": [
+        "-1069477428",
+        "906289368"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1069477428",
+      "name_nortag": "Jack Vessalius",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "906289368",
+      "name_nortag": "Oz Vessalius",
+      "total_img": 19
     }
   ]
 }

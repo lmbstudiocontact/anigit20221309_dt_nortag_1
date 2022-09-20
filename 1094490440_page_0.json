@@ -4,37 +4,26 @@
   "name_nortag": "Minase Yukari",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "868548310",
-  "hc_lt_data_img": "1678329304",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1415330832",
+  "hc_lt_alb": "2061448396",
+  "hc_lt_data_img": "56305528",
+  "hc_lt_nortag": "201125608",
+  "hc_lt_sptag": "983333470",
   "lt_alb": [
-    {
-      "id_alb": "2098692385",
-      "name_alb": "Lunaris Filia",
-      "total_img": 7
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "2098692385",
+      "name_alb": "Lunaris Filia",
+      "total_img": 7
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "-1777513859",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "LunarisFilia_853318_crop2608_-1185711340",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicumjUV0brkIfH10ZByrld2SbR/RWJyaMGzTa40HxtfXpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicumjUV0brkIfH10ZByrld2RjOJ6/76p7h8/C0+Yb4gkZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "2098692385"
-      ]
-    },
-    {
       "hc_lt_id_alb": "164713978",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-893364834",
       "hc_lt_id_sptag": "-1362652903",
       "id_img": "LunarisFilia_853346_crop2608_-1437450193",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicE4f+9dBEfyzmBY5IrR8n6BBLWMjfBv18Jy18mPt1LoJVy4706IhQgSYlgwrgVRHU=",
@@ -43,14 +32,44 @@
         "2098692385",
         "68811063"
       ],
+      "list_id_nortag": [
+        "1094490440"
+      ],
       "lt_id_sptag": [
         "-154622774",
         "-326078627",
         "1129122964"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-1777513859",
+      "hc_lt_id_nortag": "-893364834",
+      "hc_lt_id_sptag": "",
+      "id_img": "LunarisFilia_853318_crop2608_-1185711340",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicumjUV0brkIfH10ZByrld2SbR/RWJyaMGzTa40HxtfXpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicumjUV0brkIfH10ZByrld2RjOJ6/76p7h8/C0+Yb4gkZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "2098692385"
+      ],
+      "list_id_nortag": [
+        "1094490440"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1094490440",
+      "name_nortag": "Minase Yukari",
+      "total_img": 2
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
     {
       "id_sptag": "-154622774",
       "key_sptag": "isGirlHairBlackAnime",
@@ -62,12 +81,6 @@
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
-    },
-    {
-      "id_sptag": "1129122964",
-      "key_sptag": "isGirlEyesVioletAnime",
-      "name_sptag": "Girls Eyes Violet",
-      "total": 6410
     }
   ]
 }

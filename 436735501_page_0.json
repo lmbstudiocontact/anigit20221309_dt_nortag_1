@@ -5,9 +5,9 @@
   "total_img": 5,
   "total_page": 0,
   "hc_lt_alb": "534505500",
-  "hc_lt_data_img": "-296578792",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1061578572",
+  "hc_lt_data_img": "-906042268",
+  "hc_lt_nortag": "686743965",
+  "hc_lt_sptag": "1100835916",
   "lt_alb": [
     {
       "id_alb": "-892807948",
@@ -28,40 +28,84 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_833321_crop2608_-1885622569",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrW9lfTpS8oKFMYNC3ExANB9xZ65Xih3gOkeyhHiu555Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrW9lfTpS8oKFMYNC3ExANFQu8rS4xS6He48hthWwWJ5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "96561207",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_833321_crop2608_2087568027",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDtSIUWB5eoaRJ1CGkPk1q5FSGQG6LUcO2g1znHXbhu5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDtSIUWB5eoaRJ1CGkPk1qtJ/qLW6ZW35swcKWM4yrsZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "455752626",
+        "1837763930",
+        "-1361231934",
+        "-540557569",
+        "-148568472",
+        "-958187632",
+        "-899970271",
+        "518491969",
+        "489708789",
+        "-890365842",
+        "-711817417",
+        "584016335",
+        "1862163858",
+        "-1278041944",
+        "1182614953",
+        "570659319",
+        "-1873931185",
+        "436735501",
+        "2225266",
+        "-1185956769",
+        "-63719044",
+        "-114492302",
+        "554120321",
+        "-1769491654",
+        "115056883",
+        "940301965",
+        "-928006557",
+        "-320799925",
+        "-182895206",
+        "-285202530",
+        "-1352771606",
+        "1869358694",
+        "1339700914",
+        "-342064395",
+        "-1643022489",
+        "-61413949",
+        "-272046484",
+        "-455647535",
+        "-460280087",
+        "2115335358",
+        "1684926246",
+        "-759650044",
+        "1099364961",
+        "-979079592",
+        "1701816780",
+        "-339618269",
+        "-2066368222",
+        "154658675",
+        "-1611763306",
+        "-455869487"
       ]
     },
     {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "-1997800830",
+      "hc_lt_id_nortag": "1494555123",
       "hc_lt_id_sptag": "",
-      "id_img": "Crossover_833321_crop2608_702636650",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJQSkRwqaE09C9tAwhw8d4uKKZi8Bq2PjYM1wDIfP2oZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJQSkRwqaE09C9tAwhw8d48F6B0hfNJPIxkcEqZixfO5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "ToaruMajutsunoIndex_813356_crop2608_670161448",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSN+uYPhxAn4QZ4GqNzFr2etHywkqrAf9PSnaomeTbvJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSN+uYPhxAn4QZ4GqNzFr2CNR+F2Fsv9GJlz8PDc2Ys5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "-892807948"
+        "-1479929485"
+      ],
+      "list_id_nortag": [
+        "436735501"
       ]
     },
     {
       "hc_lt_id_alb": "1902168109",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1309261755",
       "hc_lt_id_sptag": "-1451752353",
       "id_img": "ToaruMajutsunoIndex_802355_crop2608_1004153863",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifQ8bNaYHmA6LUMVxsyCKGudRE+yIM3cL700kVVc4ZQ25Vy4706IhQgSYlgwrgVRHU=",
@@ -69,6 +113,12 @@
       "lt_id_alb": [
         "68811063",
         "-1479929485"
+      ],
+      "list_id_nortag": [
+        "436735501",
+        "1820541189",
+        "-774594597",
+        "970102444"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -80,23 +130,405 @@
       ]
     },
     {
-      "hc_lt_id_alb": "-1997800830",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "96561207",
       "hc_lt_id_sptag": "",
-      "id_img": "ToaruMajutsunoIndex_813356_crop2608_670161448",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSN+uYPhxAn4QZ4GqNzFr2etHywkqrAf9PSnaomeTbvJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSN+uYPhxAn4QZ4GqNzFr2CNR+F2Fsv9GJlz8PDc2Ys5Vy4706IhQgSYlgwrgVRHU=",
+      "id_img": "Crossover_833321_crop2608_702636650",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJQSkRwqaE09C9tAwhw8d4uKKZi8Bq2PjYM1wDIfP2oZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJQSkRwqaE09C9tAwhw8d48F6B0hfNJPIxkcEqZixfO5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "-1479929485"
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "455752626",
+        "1837763930",
+        "-1361231934",
+        "-540557569",
+        "-148568472",
+        "-958187632",
+        "-899970271",
+        "518491969",
+        "489708789",
+        "-890365842",
+        "-711817417",
+        "584016335",
+        "1862163858",
+        "-1278041944",
+        "1182614953",
+        "570659319",
+        "-1873931185",
+        "436735501",
+        "2225266",
+        "-1185956769",
+        "-63719044",
+        "-114492302",
+        "554120321",
+        "-1769491654",
+        "115056883",
+        "940301965",
+        "-928006557",
+        "-320799925",
+        "-182895206",
+        "-285202530",
+        "-1352771606",
+        "1869358694",
+        "1339700914",
+        "-342064395",
+        "-1643022489",
+        "-61413949",
+        "-272046484",
+        "-455647535",
+        "-460280087",
+        "2115335358",
+        "1684926246",
+        "-759650044",
+        "1099364961",
+        "-979079592",
+        "1701816780",
+        "-339618269",
+        "-2066368222",
+        "154658675",
+        "-1611763306",
+        "-455869487"
       ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "96561207",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_833321_crop2608_-1885622569",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrW9lfTpS8oKFMYNC3ExANB9xZ65Xih3gOkeyhHiu555Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidrW9lfTpS8oKFMYNC3ExANFQu8rS4xS6He48hthWwWJ5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "455752626",
+        "1837763930",
+        "-1361231934",
+        "-540557569",
+        "-148568472",
+        "-958187632",
+        "-899970271",
+        "518491969",
+        "489708789",
+        "-890365842",
+        "-711817417",
+        "584016335",
+        "1862163858",
+        "-1278041944",
+        "1182614953",
+        "570659319",
+        "-1873931185",
+        "436735501",
+        "2225266",
+        "-1185956769",
+        "-63719044",
+        "-114492302",
+        "554120321",
+        "-1769491654",
+        "115056883",
+        "940301965",
+        "-928006557",
+        "-320799925",
+        "-182895206",
+        "-285202530",
+        "-1352771606",
+        "1869358694",
+        "1339700914",
+        "-342064395",
+        "-1643022489",
+        "-61413949",
+        "-272046484",
+        "-455647535",
+        "-460280087",
+        "2115335358",
+        "1684926246",
+        "-759650044",
+        "1099364961",
+        "-979079592",
+        "1701816780",
+        "-339618269",
+        "-2066368222",
+        "154658675",
+        "-1611763306",
+        "-455869487"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1361231934",
+      "name_nortag": "Akame Akame Ga Kill",
+      "total_img": 46
+    },
+    {
+      "id_nortag": "-1769491654",
+      "name_nortag": "Archer FateStay Night",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "940301965",
+      "name_nortag": "Asuna Yuuki",
+      "total_img": 201
+    },
+    {
+      "id_nortag": "1182614953",
+      "name_nortag": "Eren Yeager",
+      "total_img": 294
+    },
+    {
+      "id_nortag": "-890365842",
+      "name_nortag": "Erza Scarlet",
+      "total_img": 39
+    },
+    {
+      "id_nortag": "2225266",
+      "name_nortag": "Goku",
+      "total_img": 321
+    },
+    {
+      "id_nortag": "1862163858",
+      "name_nortag": "Highschool Of The Dead",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-1185956769",
+      "name_nortag": "Hinata Hyuga",
+      "total_img": 54
+    },
+    {
+      "id_nortag": "-958187632",
+      "name_nortag": "Ichigo Kurosaki",
+      "total_img": 201
+    },
+    {
+      "id_nortag": "1684926246",
+      "name_nortag": "Inori Yuzuriha",
+      "total_img": 32
+    },
+    {
+      "id_nortag": "1837763930",
+      "name_nortag": "Itachi Uchiha",
+      "total_img": 58
+    },
+    {
+      "id_nortag": "970102444",
+      "name_nortag": "Kamijou Touma",
+      "total_img": 35
+    },
+    {
+      "id_nortag": "115056883",
+      "name_nortag": "Kanade Tachibana",
+      "total_img": 216
+    },
+    {
+      "id_nortag": "436735501",
+      "name_nortag": "Kaori Kanzaki",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-1352771606",
+      "name_nortag": "Kaori Miyazono",
+      "total_img": 138
+    },
+    {
+      "id_nortag": "-320799925",
+      "name_nortag": "Kazuto Kirigaya",
+      "total_img": 125
+    },
+    {
+      "id_nortag": "-711817417",
+      "name_nortag": "Ken Kaneki",
+      "total_img": 255
+    },
+    {
+      "id_nortag": "-61413949",
+      "name_nortag": "Kirito Sword Art Online",
+      "total_img": 206
+    },
+    {
+      "id_nortag": "489708789",
+      "name_nortag": "Korra The Legend Of Korra",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "-114492302",
+      "name_nortag": "Kousei Arima",
+      "total_img": 59
+    },
+    {
+      "id_nortag": "518491969",
+      "name_nortag": "Kurisu Makise",
+      "total_img": 38
+    },
+    {
+      "id_nortag": "-774594597",
+      "name_nortag": "Kuroko Shirai",
+      "total_img": 82
+    },
+    {
+      "id_nortag": "455752626",
+      "name_nortag": "Kurome Akame Ga Kill",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "1339700914",
+      "name_nortag": "L Death Note",
+      "total_img": 24
+    },
+    {
+      "id_nortag": "-979079592",
+      "name_nortag": "Levi Ackerman",
+      "total_img": 232
+    },
+    {
+      "id_nortag": "-148568472",
+      "name_nortag": "Madara Uchiha",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "-460280087",
+      "name_nortag": "Masami Iwasawa",
+      "total_img": 27
+    },
+    {
+      "id_nortag": "-455869487",
+      "name_nortag": "Mato Kuroi",
+      "total_img": 19
+    },
+    {
+      "id_nortag": "-759650044",
+      "name_nortag": "Mikasa Ackerman",
+      "total_img": 326
+    },
+    {
+      "id_nortag": "1820541189",
+      "name_nortag": "Mikoto Misaka",
+      "total_img": 123
+    },
+    {
+      "id_nortag": "1869358694",
+      "name_nortag": "Minato Namikaze",
+      "total_img": 43
+    },
+    {
+      "id_nortag": "-1643022489",
+      "name_nortag": "Monkey D Luffy",
+      "total_img": 156
+    },
+    {
+      "id_nortag": "154658675",
+      "name_nortag": "Naruto Uzumaki",
+      "total_img": 292
+    },
+    {
+      "id_nortag": "-1873931185",
+      "name_nortag": "Natsu Dragneel",
+      "total_img": 117
+    },
+    {
+      "id_nortag": "-540557569",
+      "name_nortag": "Portgas D Ace",
+      "total_img": 48
+    },
+    {
+      "id_nortag": "-1278041944",
+      "name_nortag": "Rin Tohsaka",
+      "total_img": 36
+    },
+    {
+      "id_nortag": "-455647535",
+      "name_nortag": "Rock Lee",
+      "total_img": 23
+    },
+    {
+      "id_nortag": "-899970271",
+      "name_nortag": "Ryuk Death Note",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "-272046484",
+      "name_nortag": "Saber Fate Series",
+      "total_img": 218
+    },
+    {
+      "id_nortag": "584016335",
+      "name_nortag": "Sabo One Piece",
+      "total_img": 25
+    },
+    {
+      "id_nortag": "-1611763306",
+      "name_nortag": "Sakura Haruno",
+      "total_img": 93
+    },
+    {
+      "id_nortag": "-285202530",
+      "name_nortag": "Sasuke Uchiha",
+      "total_img": 154
+    },
+    {
+      "id_nortag": "-928006557",
+      "name_nortag": "Shingeki No Kyojin",
+      "total_img": 201
+    },
+    {
+      "id_nortag": "-342064395",
+      "name_nortag": "Shinichi Izumi",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "554120321",
+      "name_nortag": "Shino Asada",
+      "total_img": 34
+    },
+    {
+      "id_nortag": "-182895206",
+      "name_nortag": "Shu Ouma",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "-63719044",
+      "name_nortag": "Sinon Sword Art Online",
+      "total_img": 49
+    },
+    {
+      "id_nortag": "570659319",
+      "name_nortag": "Tony Tony Chopper",
+      "total_img": 59
+    },
+    {
+      "id_nortag": "-339618269",
+      "name_nortag": "Touka Kirishima",
+      "total_img": 89
+    },
+    {
+      "id_nortag": "1701816780",
+      "name_nortag": "Trafalgar Law",
+      "total_img": 26
+    },
+    {
+      "id_nortag": "1099364961",
+      "name_nortag": "Yukino Yukinoshita",
+      "total_img": 30
+    },
+    {
+      "id_nortag": "2115335358",
+      "name_nortag": "Yuno Gasai",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "-2066368222",
+      "name_nortag": "Yuuki Konno",
+      "total_img": 40
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "-143380300",
@@ -105,10 +537,10 @@
       "total": 9239
     },
     {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
     },
     {
       "id_sptag": "-369535327",
@@ -117,10 +549,10 @@
       "total": 11965
     },
     {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
     },
     {
       "id_sptag": "1443397502",

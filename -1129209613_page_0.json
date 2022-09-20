@@ -4,45 +4,70 @@
   "name_nortag": "Maho Hiyajo",
   "total_img": 5,
   "total_page": 0,
-  "hc_lt_alb": "-862825449",
-  "hc_lt_data_img": "-880583975",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1440206332",
+  "hc_lt_alb": "-765349013",
+  "hc_lt_data_img": "1935646202",
+  "hc_lt_nortag": "1237916083",
+  "hc_lt_sptag": "-1328037878",
   "lt_alb": [
-    {
-      "id_alb": "-750624939",
-      "name_alb": "SteinsGate",
-      "total_img": 100
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-750624939",
+      "name_alb": "SteinsGate",
+      "total_img": 100
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "862828460",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "492636778",
-      "id_img": "SteinsGate0_928316_crop2608_-2129250481",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZ6PRTV3xY3PtMV3OBCfuU8cP1rsFKzGcoYCm8j//qnpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZ6PRTV3xY3PtMV3OBCfuUMl6rOirVymQ7Oo46FQpvPpVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_alb": "-1754994037",
+      "hc_lt_id_nortag": "1290135309",
+      "hc_lt_id_sptag": "",
+      "id_img": "SteinsGate_915388_crop2608_1608781106",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUQxDcaYPGJ9A+vuuYVeXHJSERBtrQFMFDTuHUGr4K45Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUQxDcaYPGJ9A+vuuYVeXHUnUpbsPIeKzzgPeeIxB1xJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "-750624939",
-        "68811063"
+        "-750624939"
       ],
-      "lt_id_sptag": [
-        "-1811357781",
-        "-326078627",
-        "-143534545",
-        "1439812287",
-        "635218351"
+      "list_id_nortag": [
+        "518491969",
+        "-728815895",
+        "972352879",
+        "919221003",
+        "847098978",
+        "347320833",
+        "2139825921",
+        "-454476439",
+        "-1129209613"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1754994037",
+      "hc_lt_id_nortag": "1290135309",
+      "hc_lt_id_sptag": "",
+      "id_img": "SteinsGate_915388_crop2608_768842629",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccWBHIzVfDjUHmJUQtJTfpVKCrTZlbfAnfM75/2y175ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccWBHIzVfDjUHmJUQtJTfp/GTXjy0AHfL861DHuvddzpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-750624939"
+      ],
+      "list_id_nortag": [
+        "518491969",
+        "-728815895",
+        "972352879",
+        "919221003",
+        "847098978",
+        "347320833",
+        "2139825921",
+        "-454476439",
+        "-1129209613"
       ]
     },
     {
       "hc_lt_id_alb": "862828460",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1196771216",
       "hc_lt_id_sptag": "-1453958081",
       "id_img": "SteinsGate0_947219_crop2608_348223860",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBEz0YLZ+4ESMGqt4bqSceLqjkoq3yolgZ2UlDe8CS2pVy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +75,9 @@
       "lt_id_alb": [
         "-750624939",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "-1129209613"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -60,63 +88,97 @@
     },
     {
       "hc_lt_id_alb": "-1754994037",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1290135309",
       "hc_lt_id_sptag": "",
       "id_img": "SteinsGate_915388_crop2608_-155013920",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoZhmjQAeOg57i9FIzSpK/qSHXL88XYJ9fXDv96Xgaf5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicoZhmjQAeOg57i9FIzSpK/JdembMkp2IeCb0P4Sz9ykJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-750624939"
+      ],
+      "list_id_nortag": [
+        "518491969",
+        "-728815895",
+        "972352879",
+        "919221003",
+        "847098978",
+        "347320833",
+        "2139825921",
+        "-454476439",
+        "-1129209613"
       ]
     },
     {
-      "hc_lt_id_alb": "-1754994037",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "SteinsGate_915388_crop2608_1608781106",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUQxDcaYPGJ9A+vuuYVeXHJSERBtrQFMFDTuHUGr4K45Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifUQxDcaYPGJ9A+vuuYVeXHUnUpbsPIeKzzgPeeIxB1xJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_alb": "862828460",
+      "hc_lt_id_nortag": "-1196771216",
+      "hc_lt_id_sptag": "492636778",
+      "id_img": "SteinsGate0_928316_crop2608_-2129250481",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZ6PRTV3xY3PtMV3OBCfuU8cP1rsFKzGcoYCm8j//qnpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZ6PRTV3xY3PtMV3OBCfuUMl6rOirVymQ7Oo46FQpvPpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "-750624939"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1754994037",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "SteinsGate_915388_crop2608_768842629",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccWBHIzVfDjUHmJUQtJTfpVKCrTZlbfAnfM75/2y175ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiccWBHIzVfDjUHmJUQtJTfp/GTXjy0AHfL861DHuvddzpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-750624939"
+        "-750624939",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "-1129209613"
+      ],
+      "lt_id_sptag": [
+        "-1811357781",
+        "-326078627",
+        "-143534545",
+        "1439812287",
+        "635218351"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "972352879",
+      "name_nortag": "Faris Nyannyan",
+      "total_img": 12
+    },
+    {
+      "id_nortag": "347320833",
+      "name_nortag": "Kagari Shiina",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "518491969",
+      "name_nortag": "Kurisu Makise",
+      "total_img": 38
+    },
+    {
+      "id_nortag": "919221003",
+      "name_nortag": "Luka Urushibara",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "-1129209613",
+      "name_nortag": "Maho Hiyajo",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "2139825921",
+      "name_nortag": "Mayuri Shiina",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "-454476439",
+      "name_nortag": "Moeka Kiryu",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "-728815895",
+      "name_nortag": "Rintaro Okabe",
+      "total_img": 24
+    },
+    {
+      "id_nortag": "847098978",
+      "name_nortag": "Suzuha Amane",
+      "total_img": 16
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
     {
       "id_sptag": "635218351",
       "key_sptag": "isGirlEyesBlueAnime",
@@ -128,6 +190,30 @@
       "key_sptag": "isGirlHairBlackAnime",
       "name_sptag": "Girls Hair Black",
       "total": 16737
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

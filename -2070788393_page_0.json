@@ -4,16 +4,11 @@
   "name_nortag": "Mercenary Grimoire of Zero",
   "total_img": 3,
   "total_page": 0,
-  "hc_lt_alb": "1417086588",
-  "hc_lt_data_img": "-444349791",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1647770196",
+  "hc_lt_alb": "-1756118288",
+  "hc_lt_data_img": "-934580304",
+  "hc_lt_nortag": "1554027965",
+  "hc_lt_sptag": "1547130838",
   "lt_alb": [
-    {
-      "id_alb": "275284173",
-      "name_alb": "Grimoire of Zero",
-      "total_img": 27
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
@@ -23,12 +18,17 @@
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "275284173",
+      "name_alb": "Grimoire of Zero",
+      "total_img": 27
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-852003861",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1291189785",
       "hc_lt_id_sptag": "",
       "id_img": "GrimoireofZero_828204_crop2608_-1709421668",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifoU7pZOEs1OL4pSPSyRLfDVfulWEGbqgS3pCBCPKz+FJVy4706IhQgSYlgwrgVRHU=",
@@ -36,11 +36,29 @@
       "lt_id_alb": [
         "275284173",
         "66988"
+      ],
+      "list_id_nortag": [
+        "-2070788393"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-852003861",
+      "hc_lt_id_nortag": "1291189785",
+      "hc_lt_id_sptag": "",
+      "id_img": "GrimoireofZero_834932_crop2608_769340117",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTdIbdpjo63iPBqx5dd/zuup/NwZ9p6ojUVedQZFVMG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTdIbdpjo63iPBqx5dd/zuDxlkow4th3yp/UHydZj3O5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "275284173",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "-2070788393"
       ]
     },
     {
       "hc_lt_id_alb": "-1470470519",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-827646076",
       "hc_lt_id_sptag": "-1222310471",
       "id_img": "GrimoireofZero_817345_crop2608_-345702836",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieEFwSzB1WfHVse4L9tePaUNr650LkbOwYffTJO3oloOpVy4706IhQgSYlgwrgVRHU=",
@@ -48,6 +66,10 @@
       "lt_id_alb": [
         "275284173",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "-949700827",
+        "-2070788393"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -58,21 +80,33 @@
         "1439812287",
         "1443397502"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-2070788393",
+      "name_nortag": "Mercenary Grimoire of Zero",
+      "total_img": 3
     },
     {
-      "hc_lt_id_alb": "-852003861",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "GrimoireofZero_834932_crop2608_769340117",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTdIbdpjo63iPBqx5dd/zuup/NwZ9p6ojUVedQZFVMG5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTdIbdpjo63iPBqx5dd/zuDxlkow4th3yp/UHydZj3O5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "275284173",
-        "66988"
-      ]
+      "id_nortag": "-949700827",
+      "name_nortag": "Zero Grimoire of Zero",
+      "total_img": 20
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
     {
       "id_sptag": "-14067806",
       "key_sptag": "isGirlHairSilverAnime",
@@ -90,18 +124,6 @@
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
-    },
-    {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
-    },
-    {
-      "id_sptag": "1129122964",
-      "key_sptag": "isGirlEyesVioletAnime",
-      "name_sptag": "Girls Eyes Violet",
-      "total": 6410
     },
     {
       "id_sptag": "1439812287",

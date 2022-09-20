@@ -5,9 +5,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "1904866679",
-  "hc_lt_data_img": "-2035332445",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "712844408",
+  "hc_lt_data_img": "-1837280605",
+  "hc_lt_nortag": "952030159",
+  "hc_lt_sptag": "-1030132118",
   "lt_alb": [
     {
       "id_alb": "66988",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "2028616408",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "825458529",
       "hc_lt_id_sptag": "",
       "id_img": "StarrySky_958134_crop2608_-1549873869",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5rtwbdx9/iwMfwC9/lKTj+NSEuzgQbtB7A4yTngqkvJVy4706IhQgSYlgwrgVRHU=",
@@ -31,11 +31,14 @@
       "lt_id_alb": [
         "66988",
         "-126092760"
+      ],
+      "list_id_nortag": [
+        "126571628"
       ]
     },
     {
       "hc_lt_id_alb": "2028616408",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "825458529",
       "hc_lt_id_sptag": "862791854",
       "id_img": "StarrySky_958134_crop2608_1317795647",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicISkpVWKj9LfH1p0XXak4NsiOoN/n37yjozDhKEJwdiZVy4706IhQgSYlgwrgVRHU=",
@@ -44,24 +47,34 @@
         "66988",
         "-126092760"
       ],
+      "list_id_nortag": [
+        "126571628"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
       ]
     }
   ],
-  "lt_sptag": [
+  "lt_nortag": [
     {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
-    },
+      "id_nortag": "126571628",
+      "name_nortag": "Kanata Nanami",
+      "total_img": 2
+    }
+  ],
+  "lt_sptag": [
     {
       "id_sptag": "1736318786",
       "key_sptag": "isBoySad",
       "name_sptag": "Boy Sad",
       "total": 1551
+    },
+    {
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

@@ -4,26 +4,26 @@
   "name_nortag": "Kuro Chrono Clock",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "859583050",
-  "hc_lt_data_img": "-951443882",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-195994142",
+  "hc_lt_alb": "-2029539048",
+  "hc_lt_data_img": "1998739120",
+  "hc_lt_nortag": "1325696459",
+  "hc_lt_sptag": "1814620746",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "1608147025",
       "name_alb": "Chrono Clock",
       "total_img": 7
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1411135094",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-413144168",
       "hc_lt_id_sptag": "951151691",
       "id_img": "ChronoClock_817919_crop2608_-1119025591",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifpfH9APmvVGA+Xl4HvRI5g0INYeM4cIsI/hYcrUGG/0ZVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,9 @@
       "lt_id_alb": [
         "68811063",
         "1608147025"
+      ],
+      "list_id_nortag": [
+        "-594977142"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -44,7 +47,7 @@
     },
     {
       "hc_lt_id_alb": "1411135094",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1385545969",
       "hc_lt_id_sptag": "-73290408",
       "id_img": "ChronoClock_817921_crop2608_-805072352",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicV6zSCqYyOMbp6qPnbQHH+gWUS1HSgprzCbBLj2B52IpVy4706IhQgSYlgwrgVRHU=",
@@ -52,6 +55,10 @@
       "lt_id_alb": [
         "68811063",
         "1608147025"
+      ],
+      "list_id_nortag": [
+        "-594977142",
+        "1204572642"
       ],
       "lt_id_sptag": [
         "-564636969",
@@ -63,18 +70,48 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-594977142",
+      "name_nortag": "Kuro Chrono Clock",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "1204572642",
+      "name_nortag": "Makoto Jonouchi",
+      "total_img": 4
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
     },
     {
       "id_sptag": "936615491",
       "key_sptag": "isGirlEyesOrangeAnime",
       "name_sptag": "Girls Eyes Orange",
       "total": 3828
+    },
+    {
+      "id_sptag": "1129122964",
+      "key_sptag": "isGirlEyesVioletAnime",
+      "name_sptag": "Girls Eyes Violet",
+      "total": 6410
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
     },
     {
       "id_sptag": "-135339788",
@@ -89,24 +126,6 @@
       "total": 47407
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
       "id_sptag": "-564636969",
       "key_sptag": "isGirlSharpCanineToothAnime",
       "name_sptag": "Girls Sharp Canine Tooth",
@@ -119,22 +138,22 @@
       "total": 23769
     },
     {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
       "id_sptag": "1440489992",
       "key_sptag": "isGirlTearsAnime",
       "name_sptag": "Girls Tears",
       "total": 1511
     },
     {
-      "id_sptag": "1129122964",
-      "key_sptag": "isGirlEyesVioletAnime",
-      "name_sptag": "Girls Eyes Violet",
-      "total": 6410
-    },
-    {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     }
   ]
 }

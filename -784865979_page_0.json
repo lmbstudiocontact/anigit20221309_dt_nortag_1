@@ -4,16 +4,11 @@
   "name_nortag": "Kaga Kouko",
   "total_img": 2,
   "total_page": 0,
-  "hc_lt_alb": "212782510",
-  "hc_lt_data_img": "-734820207",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "978231569",
+  "hc_lt_alb": "1223258526",
+  "hc_lt_data_img": "1135031121",
+  "hc_lt_nortag": "2004600720",
+  "hc_lt_sptag": "72194441",
   "lt_alb": [
-    {
-      "id_alb": "-191944828",
-      "name_alb": "Golden Time",
-      "total_img": 2
-    },
     {
       "id_alb": "2024260576",
       "name_alb": "Couple",
@@ -23,24 +18,17 @@
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-191944828",
+      "name_alb": "Golden Time",
+      "total_img": 2
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "-623104856",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "GoldenTime_702206_crop2608_1429146938",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTC995RmueFc7DkMciU0WFLOU1M29zkOdXCn3pix4WZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTC995RmueFc7DkMciU0WDDMr1Yxo6QOUb4CqV46rbJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-191944828",
-        "2024260576"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-538656277",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1505500599",
       "hc_lt_id_sptag": "950955113",
       "id_img": "GoldenTime_798805_crop2608_-1246260350",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyt7WyVMRQIDl96jJSaIibHMKUwf1eAphP8t0E6IvEHZVy4706IhQgSYlgwrgVRHU=",
@@ -49,6 +37,9 @@
         "68811063",
         "-191944828"
       ],
+      "list_id_nortag": [
+        "-784865979"
+      ],
       "lt_id_sptag": [
         "-120608061",
         "154003721",
@@ -56,9 +47,37 @@
         "1600730941",
         "1439812287"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-623104856",
+      "hc_lt_id_nortag": "-1505500599",
+      "hc_lt_id_sptag": "",
+      "id_img": "GoldenTime_702206_crop2608_1429146938",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTC995RmueFc7DkMciU0WFLOU1M29zkOdXCn3pix4WZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieVTC995RmueFc7DkMciU0WDDMr1Yxo6QOUb4CqV46rbJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-191944828",
+        "2024260576"
+      ],
+      "list_id_nortag": [
+        "-784865979"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-784865979",
+      "name_nortag": "Kaga Kouko",
+      "total_img": 2
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
     {
       "id_sptag": "-120608061",
       "key_sptag": "isGirlHairOrangeAnime",
@@ -76,12 +95,6 @@
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
-    },
-    {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
     },
     {
       "id_sptag": "1439812287",

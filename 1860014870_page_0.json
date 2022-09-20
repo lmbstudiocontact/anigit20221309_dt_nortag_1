@@ -4,74 +4,26 @@
   "name_nortag": "Kyojuro Rengoku",
   "total_img": 7,
   "total_page": 0,
-  "hc_lt_alb": "949004341",
-  "hc_lt_data_img": "-867823522",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "1213248013",
+  "hc_lt_data_img": "-1769390695",
+  "hc_lt_nortag": "-258210468",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "-516344466",
-      "name_alb": "Demon Slayer Kimetsu no Yaiba",
-      "total_img": 133
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "-516344466",
+      "name_alb": "Demon Slayer Kimetsu no Yaiba",
+      "total_img": 133
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-224266100",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DemonSlayerKimetsunoYaiba_1000018_crop2608_-1166013261",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieU5Nr8r5BI49+wLjweFo5tRpW2goI4X/wlttw+IKQZppVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieU5Nr8r5BI49+wLjweFo5tBfW8sTt5EUeT0uLp4cJRp5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-516344466",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-224266100",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DemonSlayerKimetsunoYaiba_1000023_crop2608_-624371891",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0G0xf30RVjVDwq7CJkG8Jcq2LMNmeddddN1wjYX+ezZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0G0xf30RVjVDwq7CJkG8JaZFBY7pP82W8Sya3cZHKB5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-516344466",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-224266100",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DemonSlayerKimetsunoYaiba_1005527_crop2608_-1402912527",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8uTfD0++tbAXSmESfqiSowPzsLjA4jPHdAfZFRE2SNZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8uTfD0++tbAXSmESfqiSorE9ex+iWNAOJzVck1JJdeJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-516344466",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-224266100",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "DemonSlayerKimetsunoYaiba_1005532_crop2608_2022136862",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqBlXZDf/EC9zfiNoapDtAEZ71Xfj/W8g+2gM25qvKHJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqBlXZDf/EC9zfiNoapDtAcGRoYsOogKltPQDVqvn3GZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-516344466",
-        "66988"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-224266100",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1516575838",
       "hc_lt_id_sptag": "",
       "id_img": "DemonSlayerKimetsunoYaiba_1005831_crop2608_-1751739296",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiedLqeadsFmL56n2XHli+cHy5IPRgqEPc0wZRDn3Nh4ppVy4706IhQgSYlgwrgVRHU=",
@@ -79,11 +31,30 @@
       "lt_id_alb": [
         "-516344466",
         "66988"
+      ],
+      "list_id_nortag": [
+        "1860014870"
       ]
     },
     {
       "hc_lt_id_alb": "-224266100",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-834159103",
+      "hc_lt_id_sptag": "",
+      "id_img": "DemonSlayerKimetsunoYaiba_1000023_crop2608_-624371891",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0G0xf30RVjVDwq7CJkG8Jcq2LMNmeddddN1wjYX+ezZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0G0xf30RVjVDwq7CJkG8JaZFBY7pP82W8Sya3cZHKB5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-516344466",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "2101847901",
+        "1860014870"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-224266100",
+      "hc_lt_id_nortag": "1516575838",
       "hc_lt_id_sptag": "",
       "id_img": "DemonSlayerKimetsunoYaiba_1011124_crop2608_394945391",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid9J5iQqe2fp3lK/pnQePS+ZcfngekyqrY6UnCCWBCd65Vy4706IhQgSYlgwrgVRHU=",
@@ -91,11 +62,59 @@
       "lt_id_alb": [
         "-516344466",
         "66988"
+      ],
+      "list_id_nortag": [
+        "1860014870"
       ]
     },
     {
       "hc_lt_id_alb": "-224266100",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1516575838",
+      "hc_lt_id_sptag": "",
+      "id_img": "DemonSlayerKimetsunoYaiba_1005527_crop2608_-1402912527",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8uTfD0++tbAXSmESfqiSowPzsLjA4jPHdAfZFRE2SNZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8uTfD0++tbAXSmESfqiSorE9ex+iWNAOJzVck1JJdeJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-516344466",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1860014870"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-224266100",
+      "hc_lt_id_nortag": "1516575838",
+      "hc_lt_id_sptag": "",
+      "id_img": "DemonSlayerKimetsunoYaiba_1000018_crop2608_-1166013261",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieU5Nr8r5BI49+wLjweFo5tRpW2goI4X/wlttw+IKQZppVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieU5Nr8r5BI49+wLjweFo5tBfW8sTt5EUeT0uLp4cJRp5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-516344466",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1860014870"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-224266100",
+      "hc_lt_id_nortag": "1516575838",
+      "hc_lt_id_sptag": "",
+      "id_img": "DemonSlayerKimetsunoYaiba_1005532_crop2608_2022136862",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqBlXZDf/EC9zfiNoapDtAEZ71Xfj/W8g+2gM25qvKHJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqBlXZDf/EC9zfiNoapDtAcGRoYsOogKltPQDVqvn3GZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-516344466",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "1860014870"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-224266100",
+      "hc_lt_id_nortag": "1516575838",
       "hc_lt_id_sptag": "",
       "id_img": "DemonSlayerKimetsunoYaiba_1035978_crop2608_431791572",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidB+U/nt1oE0eIGtqA9548ZuLLyGsEpSc7swlAQhsNCppVy4706IhQgSYlgwrgVRHU=",
@@ -103,7 +122,22 @@
       "lt_id_alb": [
         "-516344466",
         "66988"
+      ],
+      "list_id_nortag": [
+        "1860014870"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1860014870",
+      "name_nortag": "Kyojuro Rengoku",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "2101847901",
+      "name_nortag": "Tanjirou Kamado",
+      "total_img": 59
     }
   ]
 }

@@ -4,38 +4,40 @@
   "name_nortag": "Marshall D Teach",
   "total_img": 3,
   "total_page": 0,
-  "hc_lt_alb": "-1305435413",
-  "hc_lt_data_img": "1050884853",
-  "hc_lt_nortag": "",
+  "hc_lt_alb": "-2046064489",
+  "hc_lt_data_img": "-1573801585",
+  "hc_lt_nortag": "-2079930570",
   "hc_lt_sptag": "",
   "lt_alb": [
-    {
-      "id_alb": "2112395380",
-      "name_alb": "One Piece",
-      "total_img": 283
-    },
     {
       "id_alb": "66988",
       "name_alb": "Boy",
       "total_img": 8592
+    },
+    {
+      "id_alb": "2112395380",
+      "name_alb": "One Piece",
+      "total_img": 283
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "1929700190",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "-1463434693",
+      "hc_lt_id_nortag": "896007385",
       "hc_lt_id_sptag": "",
-      "id_img": "OnePiece_790590_crop2608_960131239",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewba3HcxoETW9vSa3M+uRgmpWBHWSj+f1usbccEAlxeZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewba3HcxoETW9vSa3M+uRg3SHH6psdfqhwKIAVMERlWpVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "OnePiece_973163_crop2608_-518771358",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTDRUkFFERf/uootY9FsueUUJ8GDkHn5vdi08ET7qZHJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTDRUkFFERf/uootY9Fsue0M3xjZCtiIgIMqaqZpBmnJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "2112395380",
-        "66988"
+        "2112395380"
+      ],
+      "list_id_nortag": [
+        "168275975"
       ]
     },
     {
       "hc_lt_id_alb": "1929700190",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "226770617",
       "hc_lt_id_sptag": "",
       "id_img": "OnePiece_864485_crop2608_-158637522",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaeOJ8YVvGv93kJ7CzThLUBe0xZE7tudn524Hsp75esJVy4706IhQgSYlgwrgVRHU=",
@@ -43,18 +45,74 @@
       "lt_id_alb": [
         "2112395380",
         "66988"
+      ],
+      "list_id_nortag": [
+        "-788282042",
+        "141454923",
+        "90526525",
+        "-1704665922",
+        "168275975",
+        "619491087",
+        "-896878998",
+        "-1565737632"
       ]
     },
     {
-      "hc_lt_id_alb": "-1463434693",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_alb": "1929700190",
+      "hc_lt_id_nortag": "896007385",
       "hc_lt_id_sptag": "",
-      "id_img": "OnePiece_973163_crop2608_-518771358",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTDRUkFFERf/uootY9FsueUUJ8GDkHn5vdi08ET7qZHJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTDRUkFFERf/uootY9Fsue0M3xjZCtiIgIMqaqZpBmnJVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "OnePiece_790590_crop2608_960131239",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewba3HcxoETW9vSa3M+uRgmpWBHWSj+f1usbccEAlxeZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewba3HcxoETW9vSa3M+uRg3SHH6psdfqhwKIAVMERlWpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "2112395380"
+        "2112395380",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "168275975"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-896878998",
+      "name_nortag": "Bartholomew Kuma",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "90526525",
+      "name_nortag": "Boa Hancock",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-1704665922",
+      "name_nortag": "Crocodile One Piece",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "-1565737632",
+      "name_nortag": "Donquixote Doflamingo",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "141454923",
+      "name_nortag": "Dracule Mihawk",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "619491087",
+      "name_nortag": "Gekko Moriah",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "-788282042",
+      "name_nortag": "Jinbe One Piece",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "168275975",
+      "name_nortag": "Marshall D Teach",
+      "total_img": 3
     }
   ]
 }

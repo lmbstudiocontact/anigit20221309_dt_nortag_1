@@ -5,9 +5,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "1099258285",
-  "hc_lt_data_img": "522875723",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1334520760",
+  "hc_lt_data_img": "1394312077",
+  "hc_lt_nortag": "1815154679",
+  "hc_lt_sptag": "650335672",
   "lt_alb": [
     {
       "id_alb": "-892807948",
@@ -23,40 +23,118 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_786537_crop2608_-1743945983",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieBLzU7SlU7UQbgJsaZ/YVE6aBppVirM64udWgqT6AzopVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieBLzU7SlU7UQbgJsaZ/YVEPapZPIisIC8lEeh+sFnfaZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Crossover_786537_crop2608_-540261071",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie77vnP62nVlwRSQAELKHl+UZTTBZic9b3fUyxUxjAvvZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie77vnP62nVlwRSQAELKHl+mwSyeFUpddvgIdefozhnUZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-892807948"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "944333569",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1648888674",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_786537_crop2608_-906152684",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifPmSDi+YS4evjwXN8KYNaxLOaR+lZM71J7xfA4v8AcTpVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifPmSDi+YS4evjwXN8KYNaxoRox98+l1ziMk1HqEc7A1pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "2079074963",
+        "-1783851087",
+        "-178260179",
+        "-890365842",
+        "1383698700",
+        "-2127658291",
+        "-1873931185",
+        "2225266",
+        "-1713373829",
+        "1308268892",
+        "611402350",
+        "75965107",
+        "-1301285671",
+        "-280184411",
+        "-707300834",
+        "1093716257",
+        "649592551",
+        "2129421828",
+        "-1643022489",
+        "-244418305",
+        "-1866441661",
+        "1701816780",
+        "872496064",
+        "-1140366362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "-1648888674",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_786537_crop2608_-540261071",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie77vnP62nVlwRSQAELKHl+UZTTBZic9b3fUyxUxjAvvZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie77vnP62nVlwRSQAELKHl+mwSyeFUpddvgIdefozhnUZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "2079074963",
+        "-1783851087",
+        "-178260179",
+        "-890365842",
+        "1383698700",
+        "-2127658291",
+        "-1873931185",
+        "2225266",
+        "-1713373829",
+        "1308268892",
+        "611402350",
+        "75965107",
+        "-1301285671",
+        "-280184411",
+        "-707300834",
+        "1093716257",
+        "649592551",
+        "2129421828",
+        "-1643022489",
+        "-244418305",
+        "-1866441661",
+        "1701816780",
+        "872496064",
+        "-1140366362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "944333569",
+      "hc_lt_id_nortag": "-1648888674",
+      "hc_lt_id_sptag": "",
+      "id_img": "Crossover_786537_crop2608_-1743945983",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieBLzU7SlU7UQbgJsaZ/YVE6aBppVirM64udWgqT6AzopVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieBLzU7SlU7UQbgJsaZ/YVEPapZPIisIC8lEeh+sFnfaZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-892807948"
+      ],
+      "list_id_nortag": [
+        "2079074963",
+        "-1783851087",
+        "-178260179",
+        "-890365842",
+        "1383698700",
+        "-2127658291",
+        "-1873931185",
+        "2225266",
+        "-1713373829",
+        "1308268892",
+        "611402350",
+        "75965107",
+        "-1301285671",
+        "-280184411",
+        "-707300834",
+        "1093716257",
+        "649592551",
+        "2129421828",
+        "-1643022489",
+        "-244418305",
+        "-1866441661",
+        "1701816780",
+        "872496064",
+        "-1140366362"
       ]
     },
     {
       "hc_lt_id_alb": "549335212",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-900681138",
       "hc_lt_id_sptag": "-1767587013",
       "id_img": "Crossover_818308_crop2608_2096923129",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJ10GfjFeJ5aaPZCaMTvmO8qaTb9cYkAIOw38an/fz4ZVy4706IhQgSYlgwrgVRHU=",
@@ -64,6 +142,10 @@
       "lt_id_alb": [
         "68811063",
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "-773951057",
+        "872496064"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -79,7 +161,158 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-178260179",
+      "name_nortag": "Ash Ketchum",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "-890365842",
+      "name_nortag": "Erza Scarlet",
+      "total_img": 39
+    },
+    {
+      "id_nortag": "-1713373829",
+      "name_nortag": "Frieza Dragon Ball",
+      "total_img": 35
+    },
+    {
+      "id_nortag": "-1301285671",
+      "name_nortag": "Gohan Dragon Ball",
+      "total_img": 63
+    },
+    {
+      "id_nortag": "2225266",
+      "name_nortag": "Goku",
+      "total_img": 321
+    },
+    {
+      "id_nortag": "-2127658291",
+      "name_nortag": "Gray Fullbuster",
+      "total_img": 32
+    },
+    {
+      "id_nortag": "2129421828",
+      "name_nortag": "Haruhi Suzumiya",
+      "total_img": 115
+    },
+    {
+      "id_nortag": "649592551",
+      "name_nortag": "Itsuki Koizumi",
+      "total_img": 43
+    },
+    {
+      "id_nortag": "75965107",
+      "name_nortag": "Krillin Dragon Ball",
+      "total_img": 31
+    },
+    {
+      "id_nortag": "1308268892",
+      "name_nortag": "Lucy Heartfilia",
+      "total_img": 58
+    },
+    {
+      "id_nortag": "872496064",
+      "name_nortag": "Mewtwo Pokemon",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-1643022489",
+      "name_nortag": "Monkey D Luffy",
+      "total_img": 156
+    },
+    {
+      "id_nortag": "-1866441661",
+      "name_nortag": "Nami One Piece",
+      "total_img": 67
+    },
+    {
+      "id_nortag": "-1873931185",
+      "name_nortag": "Natsu Dragneel",
+      "total_img": 117
+    },
+    {
+      "id_nortag": "-1783851087",
+      "name_nortag": "Nico Robin",
+      "total_img": 51
+    },
+    {
+      "id_nortag": "-280184411",
+      "name_nortag": "Piccolo Dragon Ball",
+      "total_img": 37
+    },
+    {
+      "id_nortag": "1093716257",
+      "name_nortag": "Pikachu",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "1383698700",
+      "name_nortag": "Roronoa Zoro",
+      "total_img": 75
+    },
+    {
+      "id_nortag": "2079074963",
+      "name_nortag": "Sanji One Piece",
+      "total_img": 74
+    },
+    {
+      "id_nortag": "-707300834",
+      "name_nortag": "Shanks One Piece",
+      "total_img": 17
+    },
+    {
+      "id_nortag": "-244418305",
+      "name_nortag": "Suzumiya Haruhi no Yuuutsu",
+      "total_img": 36
+    },
+    {
+      "id_nortag": "-773951057",
+      "name_nortag": "Tet No Game No Life",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "1701816780",
+      "name_nortag": "Trafalgar Law",
+      "total_img": 26
+    },
+    {
+      "id_nortag": "-1140366362",
+      "name_nortag": "Vegeta Dragon Ball",
+      "total_img": 124
+    },
+    {
+      "id_nortag": "611402350",
+      "name_nortag": "Yuki Nagato",
+      "total_img": 104
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "922212480",
+      "key_sptag": "isGirlEyes2ColorAnime",
+      "name_sptag": "Girls Eyes 2 Color",
+      "total": 656
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
     {
       "id_sptag": "-14067806",
       "key_sptag": "isGirlHairSilverAnime",
@@ -93,28 +326,16 @@
       "total": 8666
     },
     {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
-    {
-      "id_sptag": "1211227273",
-      "key_sptag": "isGirlEyesYellowAnime",
-      "name_sptag": "Girls Eyes Yellow",
-      "total": 6605
-    },
-    {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
-    },
-    {
       "id_sptag": "-369535327",
       "key_sptag": "isGirlHatsAnime",
       "name_sptag": "Girls Hats",
       "total": 11965
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
     },
     {
       "id_sptag": "1439812287",
@@ -127,18 +348,6 @@
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
-      "id_sptag": "922212480",
-      "key_sptag": "isGirlEyes2ColorAnime",
-      "name_sptag": "Girls Eyes 2 Color",
-      "total": 656
     }
   ]
 }

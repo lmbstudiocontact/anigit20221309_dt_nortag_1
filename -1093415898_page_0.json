@@ -4,15 +4,15 @@
   "name_nortag": "Lancer FateStay Night",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "1937573958",
-  "hc_lt_data_img": "229749405",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "711273578",
+  "hc_lt_alb": "-1667887916",
+  "hc_lt_data_img": "-1446070445",
+  "hc_lt_nortag": "-484132654",
+  "hc_lt_sptag": "-1929921084",
   "lt_alb": [
     {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
     },
     {
       "id_alb": "224902894",
@@ -25,20 +25,37 @@
       "total_img": 15
     },
     {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
-    },
-    {
       "id_alb": "1477546269",
       "name_alb": "FateStay Night",
       "total_img": 128
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
+      "hc_lt_id_alb": "-1814817378",
+      "hc_lt_id_nortag": "-1148749428",
+      "hc_lt_id_sptag": "",
+      "id_img": "FateStayNightUnlimitedBladeWorks_958274_crop2608_1149414380",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJ1XINe3Ut7dwsIygQ+Tu7bbk5sdVkC9DTzECLDxNx45Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJ1XINe3Ut7dwsIygQ+Tu7LTtjDaLIMjlz+U1T2uiCBpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "272273816",
+        "66988"
+      ],
+      "list_id_nortag": [
+        "-1093415898",
+        "-1769491654",
+        "-1590245486"
+      ]
+    },
+    {
       "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1839135824",
       "hc_lt_id_sptag": "1661428773",
       "id_img": "FateGrandOrder_903201_crop2608_1993469978",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmoYcyKbFwST+wtAfZsnNsgyFpj5mdGpFMqbRo3w3Cv5Vy4706IhQgSYlgwrgVRHU=",
@@ -46,6 +63,14 @@
       "lt_id_alb": [
         "68811063",
         "224902894"
+      ],
+      "list_id_nortag": [
+        "1863880659",
+        "-1093415898",
+        "-1769491654",
+        "-1590245486",
+        "142827443",
+        "905752050"
       ],
       "lt_id_sptag": [
         "-369654561",
@@ -58,7 +83,7 @@
     },
     {
       "hc_lt_id_alb": "-1814817378",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "2135506203",
       "hc_lt_id_sptag": "862791854",
       "id_img": "FateStayNightUnlimitedBladeWorks_815590_crop2608_641029353",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2AcMc88IR8uSO0X4ofJF//n4UJKksJgfav8QoyRp5opVy4706IhQgSYlgwrgVRHU=",
@@ -67,41 +92,99 @@
         "272273816",
         "66988"
       ],
+      "list_id_nortag": [
+        "-1093415898",
+        "-2087776008",
+        "-1769491654",
+        "1241341982",
+        "1558098172",
+        "-1500501747"
+      ],
       "lt_id_sptag": [
         "82870",
         "1736318786"
       ]
     },
     {
-      "hc_lt_id_alb": "-1814817378",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "FateStayNightUnlimitedBladeWorks_958274_crop2608_1149414380",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJ1XINe3Ut7dwsIygQ+Tu7bbk5sdVkC9DTzECLDxNx45Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJ1XINe3Ut7dwsIygQ+Tu7LTtjDaLIMjlz+U1T2uiCBpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "272273816",
-        "66988"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-332169280",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "386367592",
       "hc_lt_id_sptag": "",
       "id_img": "FateStayNight_895394_crop2608_-766546504",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieaZfL+NK2F7vbF4OqH7KJalMqKRv/ARIAKvL54jUXeU5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieaZfL+NK2F7vbF4OqH7KJalAeGmLE/la9ldf8kK5uR/JVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "1477546269"
+      ],
+      "list_id_nortag": [
+        "-1093415898",
+        "-1278041944",
+        "-1769491654"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1769491654",
+      "name_nortag": "Archer FateStay Night",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "-2087776008",
+      "name_nortag": "Assassin Fatestay night",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "-1590245486",
+      "name_nortag": "Cu Chulainn",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "142827443",
+      "name_nortag": "Fujimaru Ritsuka Male",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "1558098172",
+      "name_nortag": "Gilgamesh Fate Series",
+      "total_img": 15
+    },
+    {
+      "id_nortag": "1241341982",
+      "name_nortag": "Illyasviel Von Einzbern",
+      "total_img": 27
+    },
+    {
+      "id_nortag": "-1093415898",
+      "name_nortag": "Lancer FateStay Night",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "1863880659",
+      "name_nortag": "Medea Fate Series",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "905752050",
+      "name_nortag": "Okita Souji",
+      "total_img": 11
+    },
+    {
+      "id_nortag": "-1278041944",
+      "name_nortag": "Rin Tohsaka",
+      "total_img": 36
+    },
+    {
+      "id_nortag": "-1500501747",
+      "name_nortag": "Shirou Emiya",
+      "total_img": 6
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-369654561",
-      "key_sptag": "isGirlDarkAnime",
-      "name_sptag": "Girls Dark",
-      "total": 3468
+      "id_sptag": "1736318786",
+      "key_sptag": "isBoySad",
+      "name_sptag": "Boy Sad",
+      "total": 1551
     },
     {
       "id_sptag": "-1436512555",
@@ -110,22 +193,10 @@
       "total": 4051
     },
     {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
     },
     {
       "id_sptag": "635218351",
@@ -134,16 +205,28 @@
       "total": 25656
     },
     {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
       "id_sptag": "82870",
       "key_sptag": "isSad",
       "name_sptag": "Sad",
       "total": 12057
-    },
-    {
-      "id_sptag": "1736318786",
-      "key_sptag": "isBoySad",
-      "name_sptag": "Boy Sad",
-      "total": 1551
     }
   ]
 }

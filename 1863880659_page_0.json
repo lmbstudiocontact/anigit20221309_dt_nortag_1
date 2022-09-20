@@ -4,70 +4,54 @@
   "name_nortag": "Medea Fate Series",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "-683746010",
-  "hc_lt_data_img": "1654335224",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1378037063",
+  "hc_lt_alb": "1666867644",
+  "hc_lt_data_img": "1586023856",
+  "hc_lt_nortag": "1742612211",
+  "hc_lt_sptag": "490244741",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "224902894",
       "name_alb": "FateGrand Order",
       "total_img": 646
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-673628892",
-      "id_img": "FateGrandOrder_893811_crop2608_-1013560452",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxEdJPKqX7ckaRoYAyIQ8nBOQx41zaCUwa9UYX01qq95Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxEdJPKqX7ckaRoYAyIQ8n9cI0XA7R+IuKcFi7ijMg8pVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-1839135824",
+      "hc_lt_id_sptag": "1661428773",
+      "id_img": "FateGrandOrder_903201_crop2608_1993469978",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmoYcyKbFwST+wtAfZsnNsgyFpj5mdGpFMqbRo3w3Cv5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmoYcyKbFwST+wtAfZsnNsUgyW8mITNlwiVfFPww5m8ZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
         "224902894"
       ],
+      "list_id_nortag": [
+        "1863880659",
+        "-1093415898",
+        "-1769491654",
+        "-1590245486",
+        "142827443",
+        "905752050"
+      ],
       "lt_id_sptag": [
-        "154003721",
-        "-143120565",
-        "-1364967268",
+        "-369654561",
+        "-1436512555",
         "-326078627",
-        "1600730941",
-        "1439812287",
+        "-143534545",
         "1911583362",
         "635218351"
       ]
     },
     {
       "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-1684981407",
-      "id_img": "FateGrandOrder_893811_crop2608_-1883595927",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOx+3VVzujTN0EMdV6aQIK4MmqM03tAutgQJ8V3NSgTpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOx+3VVzujTN0EMdV6aQIKPbUw6ytnNm3+ENTydkM7CZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "224902894"
-      ],
-      "lt_id_sptag": [
-        "-14067806",
-        "154003721",
-        "-2139213873",
-        "-326078627",
-        "-271320563",
-        "1439812287",
-        "1911583362",
-        "635218351"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1433828436",
       "hc_lt_id_sptag": "-574896696",
       "id_img": "FateGrandOrder_893811_crop2608_425065417",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiick4gBZ26a2BW0156tcoaLEQ8z2eS7Jl2CyEiEEmhB6UJVy4706IhQgSYlgwrgVRHU=",
@@ -75,6 +59,10 @@
       "lt_id_alb": [
         "68811063",
         "224902894"
+      ],
+      "list_id_nortag": [
+        "1863880659",
+        "-1544032854"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -92,49 +80,100 @@
     },
     {
       "hc_lt_id_alb": "1251049526",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1661428773",
-      "id_img": "FateGrandOrder_903201_crop2608_1993469978",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmoYcyKbFwST+wtAfZsnNsgyFpj5mdGpFMqbRo3w3Cv5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmoYcyKbFwST+wtAfZsnNsUgyW8mITNlwiVfFPww5m8ZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-1433828436",
+      "hc_lt_id_sptag": "-673628892",
+      "id_img": "FateGrandOrder_893811_crop2608_-1013560452",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxEdJPKqX7ckaRoYAyIQ8nBOQx41zaCUwa9UYX01qq95Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxEdJPKqX7ckaRoYAyIQ8n9cI0XA7R+IuKcFi7ijMg8pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
         "224902894"
       ],
+      "list_id_nortag": [
+        "1863880659",
+        "-1544032854"
+      ],
       "lt_id_sptag": [
-        "-369654561",
-        "-1436512555",
+        "154003721",
+        "-143120565",
+        "-1364967268",
         "-326078627",
-        "-143534545",
+        "1600730941",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1251049526",
+      "hc_lt_id_nortag": "-1433828436",
+      "hc_lt_id_sptag": "-1684981407",
+      "id_img": "FateGrandOrder_893811_crop2608_-1883595927",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOx+3VVzujTN0EMdV6aQIK4MmqM03tAutgQJ8V3NSgTpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOx+3VVzujTN0EMdV6aQIKPbUw6ytnNm3+ENTydkM7CZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "224902894"
+      ],
+      "list_id_nortag": [
+        "1863880659",
+        "-1544032854"
+      ],
+      "lt_id_sptag": [
+        "-14067806",
+        "154003721",
+        "-2139213873",
+        "-326078627",
+        "-271320563",
+        "1439812287",
         "1911583362",
         "635218351"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1769491654",
+      "name_nortag": "Archer FateStay Night",
+      "total_img": 21
+    },
+    {
+      "id_nortag": "-1544032854",
+      "name_nortag": "Artoria Pendragon",
+      "total_img": 44
+    },
+    {
+      "id_nortag": "-1590245486",
+      "name_nortag": "Cu Chulainn",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "142827443",
+      "name_nortag": "Fujimaru Ritsuka Male",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "-1093415898",
+      "name_nortag": "Lancer FateStay Night",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "1863880659",
+      "name_nortag": "Medea Fate Series",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "905752050",
+      "name_nortag": "Okita Souji",
+      "total_img": 11
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
-    },
-    {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
-    },
-    {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
     },
     {
       "id_sptag": "1600730941",
@@ -143,16 +182,16 @@
       "total": 31431
     },
     {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
+      "id_sptag": "-369654561",
+      "key_sptag": "isGirlDarkAnime",
+      "name_sptag": "Girls Dark",
+      "total": 3468
     },
     {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
+      "id_sptag": "410439701",
+      "key_sptag": "isGirlEarsNekoAnime",
+      "name_sptag": "Girls Ears Neko",
+      "total": 7031
     },
     {
       "id_sptag": "635218351",
@@ -161,16 +200,10 @@
       "total": 25656
     },
     {
-      "id_sptag": "-14067806",
-      "key_sptag": "isGirlHairSilverAnime",
-      "name_sptag": "Girls Hair Silver",
-      "total": 16300
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
     },
     {
       "id_sptag": "-271320563",
@@ -185,22 +218,46 @@
       "total": 9528
     },
     {
-      "id_sptag": "410439701",
-      "key_sptag": "isGirlEarsNekoAnime",
-      "name_sptag": "Girls Ears Neko",
-      "total": 7031
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
     },
     {
-      "id_sptag": "-369654561",
-      "key_sptag": "isGirlDarkAnime",
-      "name_sptag": "Girls Dark",
-      "total": 3468
+      "id_sptag": "-14067806",
+      "key_sptag": "isGirlHairSilverAnime",
+      "name_sptag": "Girls Hair Silver",
+      "total": 16300
     },
     {
-      "id_sptag": "-1436512555",
-      "key_sptag": "isDarkBlack",
-      "name_sptag": "Dark Black",
-      "total": 4051
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     }
   ]
 }

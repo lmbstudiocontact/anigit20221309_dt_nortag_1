@@ -5,9 +5,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-1628689197",
-  "hc_lt_data_img": "894990323",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "49311019",
+  "hc_lt_data_img": "-827276685",
+  "hc_lt_nortag": "212905814",
+  "hc_lt_sptag": "244451883",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "226186333",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1458007943",
       "hc_lt_id_sptag": "-635794732",
       "id_img": "HeavyObject_672794_crop2608_1434240076",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicseBYt+ted5ki8YIrX1qAFCI6ZvVdnmDuSrfFRVSfrOZVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,9 @@
       "lt_id_alb": [
         "68811063",
         "304823544"
+      ],
+      "list_id_nortag": [
+        "1670913755"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -42,7 +45,7 @@
     },
     {
       "hc_lt_id_alb": "226186333",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1458007943",
       "hc_lt_id_sptag": "-635794732",
       "id_img": "HeavyObject_693637_crop2608_-1176249720",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYsvnL0xXPUNsoEx/HeCMKjWX0+9FcvuogprNF6YMPKJVy4706IhQgSYlgwrgVRHU=",
@@ -50,6 +53,9 @@
       "lt_id_alb": [
         "68811063",
         "304823544"
+      ],
+      "list_id_nortag": [
+        "1670913755"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -60,12 +66,19 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1670913755",
+      "name_nortag": "Milinda Brantini",
+      "total_img": 2
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "154003721",
@@ -86,10 +99,10 @@
       "total": 61257
     },
     {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

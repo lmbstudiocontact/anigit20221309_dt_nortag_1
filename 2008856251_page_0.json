@@ -4,11 +4,16 @@
   "name_nortag": "Kale Dragon Ball",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "557755238",
-  "hc_lt_data_img": "-288463526",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1249509600",
+  "hc_lt_alb": "-401062718",
+  "hc_lt_data_img": "1494651034",
+  "hc_lt_nortag": "1779600889",
+  "hc_lt_sptag": "2007880760",
   "lt_alb": [
+    {
+      "id_alb": "66988",
+      "name_alb": "Boy",
+      "total_img": 8592
+    },
     {
       "id_alb": "-1433462233",
       "name_alb": "Dragon Ball Super",
@@ -18,17 +23,12 @@
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
-    },
-    {
-      "id_alb": "66988",
-      "name_alb": "Boy",
-      "total_img": 8592
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1335855290",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-229255366",
       "hc_lt_id_sptag": "7645334",
       "id_img": "DragonBallSuper_792686_crop2608_108584364",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAQgwr8uXP5xp+3tIy+Ii+rJFX0I83pzsKUWQB44r81ZVy4706IhQgSYlgwrgVRHU=",
@@ -37,42 +37,8 @@
         "-1433462233",
         "68811063"
       ],
-      "lt_id_sptag": [
-        "1043155746",
-        "-1763803788",
-        "-326078627",
-        "-143534545"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1335855290",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "859089073",
-      "id_img": "DragonBallSuper_792968_crop2608_-385249165",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifG5GOJowU9/vv1FNjTcXbCsumlqlAe/jYBPScBtQdz6pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifG5GOJowU9/vv1FNjTcXbCOCQwbzHh+kXgKyfjG0IYipVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "68811063"
-      ],
-      "lt_id_sptag": [
-        "1043155746",
-        "-1763803788",
-        "-326078627",
-        "-143534545",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1335855290",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "7645334",
-      "id_img": "DragonBallSuper_792999_crop2608_-409299887",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwusiOnSgB4yjju8ubGB2qUZ7Z63ZrT1z2jQmdDU+ifZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwusiOnSgB4yjju8ubGB2q+X3RxU++ick4h6aMKToXFpVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1433462233",
-        "68811063"
+      "list_id_nortag": [
+        "2008856251"
       ],
       "lt_id_sptag": [
         "1043155746",
@@ -83,7 +49,7 @@
     },
     {
       "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-229255366",
       "hc_lt_id_sptag": "",
       "id_img": "DragonBallSuper_836299_crop2608_-622815585",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidipHZbT0nk4ygfqEybQdmUuoZGLgFFZFj/x+XgMchYIZVy4706IhQgSYlgwrgVRHU=",
@@ -91,7 +57,60 @@
       "lt_id_alb": [
         "-1433462233",
         "66988"
+      ],
+      "list_id_nortag": [
+        "2008856251"
       ]
+    },
+    {
+      "hc_lt_id_alb": "-1335855290",
+      "hc_lt_id_nortag": "-229255366",
+      "hc_lt_id_sptag": "7645334",
+      "id_img": "DragonBallSuper_792999_crop2608_-409299887",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwusiOnSgB4yjju8ubGB2qUZ7Z63ZrT1z2jQmdDU+ifZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwusiOnSgB4yjju8ubGB2q+X3RxU++ick4h6aMKToXFpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "2008856251"
+      ],
+      "lt_id_sptag": [
+        "1043155746",
+        "-1763803788",
+        "-326078627",
+        "-143534545"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1335855290",
+      "hc_lt_id_nortag": "-229255366",
+      "hc_lt_id_sptag": "859089073",
+      "id_img": "DragonBallSuper_792968_crop2608_-385249165",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifG5GOJowU9/vv1FNjTcXbCsumlqlAe/jYBPScBtQdz6pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifG5GOJowU9/vv1FNjTcXbCOCQwbzHh+kXgKyfjG0IYipVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1433462233",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "2008856251"
+      ],
+      "lt_id_sptag": [
+        "1043155746",
+        "-1763803788",
+        "-326078627",
+        "-143534545",
+        "1911583362"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "2008856251",
+      "name_nortag": "Kale Dragon Ball",
+      "total_img": 4
     }
   ],
   "lt_sptag": [
@@ -108,16 +127,16 @@
       "total": 133
     },
     {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
       "id_sptag": "-143534545",
       "key_sptag": "isGirlHairBlueAnime",
       "name_sptag": "Girls Hair Blue",
       "total": 9528
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
     },
     {
       "id_sptag": "1911583362",

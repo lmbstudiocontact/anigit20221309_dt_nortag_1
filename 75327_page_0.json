@@ -5,9 +5,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "222902298",
-  "hc_lt_data_img": "317938421",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1197986736",
+  "hc_lt_data_img": "-1248645694",
+  "hc_lt_nortag": "234371982",
+  "hc_lt_sptag": "23078312",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -28,7 +28,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1497179110",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1835995746",
       "hc_lt_id_sptag": "-92768474",
       "id_img": "Music_914019_crop2608_765492682",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKcwi+qIkXWDosZyi2DHH3SEQJBRYlLQm8VHQIThRMG5Vy4706IhQgSYlgwrgVRHU=",
@@ -36,6 +36,12 @@
       "lt_id_alb": [
         "68811063",
         "74710533"
+      ],
+      "list_id_nortag": [
+        "1992679946",
+        "1691615259",
+        "75327",
+        "64285920"
       ],
       "lt_id_sptag": [
         "154003721",
@@ -47,7 +53,7 @@
     },
     {
       "hc_lt_id_alb": "1543902218",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "411487207",
       "hc_lt_id_sptag": "-1165647783",
       "id_img": "Nisekoi_505666_crop2608_-2066747403",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifszx0ja1uy6e4MAZ6N8OovqXSrCzdvUaSXBQrh66sLf5Vy4706IhQgSYlgwrgVRHU=",
@@ -55,6 +61,14 @@
       "lt_id_alb": [
         "68811063",
         "-673775880"
+      ],
+      "list_id_nortag": [
+        "1825979975",
+        "1992679946",
+        "75327",
+        "1394954116",
+        "79944435",
+        "64285920"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -67,7 +81,56 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1992679946",
+      "name_nortag": "Blonde",
+      "total_img": 908
+    },
+    {
+      "id_nortag": "64285920",
+      "name_nortag": "Blush",
+      "total_img": 893
+    },
+    {
+      "id_nortag": "1394954116",
+      "name_nortag": "Chitoge Kirisaki",
+      "total_img": 92
+    },
+    {
+      "id_nortag": "75327",
+      "name_nortag": "Key",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "79944435",
+      "name_nortag": "Skirt",
+      "total_img": 368
+    },
+    {
+      "id_nortag": "1825979975",
+      "name_nortag": "Thigh Highs",
+      "total_img": 211
+    },
+    {
+      "id_nortag": "1691615259",
+      "name_nortag": "Twintails",
+      "total_img": 386
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
     {
       "id_sptag": "154003721",
       "key_sptag": "isGirlHairYellowAnime",
@@ -87,28 +150,16 @@
       "total": 24284
     },
     {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
       "id_sptag": "891390002",
       "key_sptag": "isGirlStudentAnime",
       "name_sptag": "Girls Student",
       "total": 16308
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     }
   ]
 }

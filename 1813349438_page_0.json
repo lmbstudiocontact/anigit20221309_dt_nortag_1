@@ -4,44 +4,53 @@
   "name_nortag": "Minette Shukufuku no Campanella",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "-935575768",
-  "hc_lt_data_img": "104670063",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "1763195590",
+  "hc_lt_alb": "-1321885126",
+  "hc_lt_data_img": "-1124964833",
+  "hc_lt_nortag": "-1946709903",
+  "hc_lt_sptag": "509633624",
   "lt_alb": [
-    {
-      "id_alb": "-1577234996",
-      "name_alb": "Shukufuku no Campanella",
-      "total_img": 20
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-1577234996",
+      "name_alb": "Shukufuku no Campanella",
+      "total_img": 20
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "645188612",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "550076291",
-      "id_img": "ShukufukunoCampanella_848117_crop2608_1486216350",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHQFh1TUZViGIMMaRw4gvisbQW/JeZahqB+Sv7XZVQ6ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHQFh1TUZViGIMMaRw4gviMzfK5bHYZQg/h3ycPC0Y+pVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-407594823",
+      "hc_lt_id_sptag": "1259807497",
+      "id_img": "ShukufukunoCampanella_848150_crop2608_724324070",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/yRx5l1M7mU+mMIOuCrY4PsjNiOZwOoFjOHWvwiXoUpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/yRx5l1M7mU+mMIOuCrY4Vnvre83HIIzpbkqH6FbkJJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1577234996",
         "68811063"
       ],
+      "list_id_nortag": [
+        "667616473",
+        "1813349438",
+        "399333415"
+      ],
       "lt_id_sptag": [
         "-1811357781",
+        "154003721",
+        "-1364967268",
         "-326078627",
+        "-369535327",
         "1911583362",
-        "-143528947"
+        "635218351",
+        "1443397502"
       ]
     },
     {
       "hc_lt_id_alb": "645188612",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-151194487",
       "hc_lt_id_sptag": "969811710",
       "id_img": "ShukufukunoCampanella_848117_crop2608_1780695028",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgTAPGVarCaSyhsAu1prC7rC1hFlG5SrexDYABQqXvQ5Vy4706IhQgSYlgwrgVRHU=",
@@ -49,6 +58,9 @@
       "lt_id_alb": [
         "-1577234996",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "1813349438"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -60,7 +72,7 @@
     },
     {
       "hc_lt_id_alb": "645188612",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-151194487",
       "hc_lt_id_sptag": "-2023656540",
       "id_img": "ShukufukunoCampanella_848140_crop2608_-2008314252",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3Npr8uGuhwuQluh2KiFAWBpLdtIaH4bNyYHbGEs4U2ZVy4706IhQgSYlgwrgVRHU=",
@@ -68,6 +80,9 @@
       "lt_id_alb": [
         "-1577234996",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "1813349438"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -80,52 +95,44 @@
     },
     {
       "hc_lt_id_alb": "645188612",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1259807497",
-      "id_img": "ShukufukunoCampanella_848150_crop2608_724324070",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/yRx5l1M7mU+mMIOuCrY4PsjNiOZwOoFjOHWvwiXoUpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/yRx5l1M7mU+mMIOuCrY4Vnvre83HIIzpbkqH6FbkJJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-151194487",
+      "hc_lt_id_sptag": "550076291",
+      "id_img": "ShukufukunoCampanella_848117_crop2608_1486216350",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHQFh1TUZViGIMMaRw4gvisbQW/JeZahqB+Sv7XZVQ6ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHQFh1TUZViGIMMaRw4gviMzfK5bHYZQg/h3ycPC0Y+pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1577234996",
         "68811063"
       ],
+      "list_id_nortag": [
+        "1813349438"
+      ],
       "lt_id_sptag": [
         "-1811357781",
-        "154003721",
-        "-1364967268",
         "-326078627",
-        "-369535327",
         "1911583362",
-        "635218351",
-        "1443397502"
+        "-143528947"
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "667616473",
+      "name_nortag": "Agnes Boulange",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "399333415",
+      "name_nortag": "Carina Verritti",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "1813349438",
+      "name_nortag": "Minette Shukufuku no Campanella",
+      "total_img": 4
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
-    },
     {
       "id_sptag": "1600730941",
       "key_sptag": "isGirlCuteCool",
@@ -133,22 +140,10 @@
       "total": 31431
     },
     {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "-1364967268",
@@ -157,16 +152,52 @@
       "total": 12697
     },
     {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
       "id_sptag": "-369535327",
       "key_sptag": "isGirlHatsAnime",
       "name_sptag": "Girls Hats",
       "total": 11965
     },
     {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     },
     {
       "id_sptag": "1443397502",

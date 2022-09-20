@@ -5,8 +5,8 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-336192206",
-  "hc_lt_data_img": "-157371258",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-463214932",
+  "hc_lt_nortag": "-1523898573",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,14 +18,24 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-139700097",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1134346824",
       "hc_lt_id_sptag": "",
       "id_img": "FairyTail_946494_crop2608_-254118624",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuaGgxTWgFaDnB2zQueOmKJFYTyxakD3TsHOUKqfyFzZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuaGgxTWgFaDnB2zQueOmKNJyub4iz95j/RTR448ZDlZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-196492293"
+      ],
+      "list_id_nortag": [
+        "1636721898"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1636721898",
+      "name_nortag": "Kagura Mikazuchi",
+      "total_img": 1
     }
   ]
 }

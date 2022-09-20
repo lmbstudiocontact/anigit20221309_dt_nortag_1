@@ -4,15 +4,15 @@
   "name_nortag": "Lucky Beast Kemono Friends",
   "total_img": 8,
   "total_page": 0,
-  "hc_lt_alb": "2054908767",
-  "hc_lt_data_img": "822536842",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "2048389832",
+  "hc_lt_alb": "168272863",
+  "hc_lt_data_img": "1983986546",
+  "hc_lt_nortag": "-1186692293",
+  "hc_lt_sptag": "-302879314",
   "lt_alb": [
     {
-      "id_alb": "-2077965603",
-      "name_alb": "Scenery Arts",
-      "total_img": 2036
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     },
     {
       "id_alb": "-1739798606",
@@ -20,74 +20,31 @@
       "total_img": 103
     },
     {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
+      "id_alb": "-2077965603",
+      "name_alb": "Scenery Arts",
+      "total_img": 2036
     }
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "844681876",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KemonoFriends_822098_crop2608_-1371561296",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieU8waQ51GdIWBt9xsgAgtXX50D1C58kaqun1+KYdV9XJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieU8waQ51GdIWBt9xsgAgtXsp6IWuUJbkx1259LO9GiIJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-2077965603",
-        "-1739798606"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-1952323799",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1661441435",
-      "id_img": "KemonoFriends_890745_crop2608_495051682",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifr40/7YxyEr0Csz7mOYGBeLOheD2/YwI7m+CjnrtRfLZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifr40/7YxyEr0Csz7mOYGBezg9jhz3as76g2IMs8Nf745Vy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_nortag": "-1745290547",
+      "hc_lt_id_sptag": "-1037524073",
+      "id_img": "KemonoFriends_890169_crop2608_-989607916",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCtwRCE13i/NpGyKWmcJcvvc+fYmuOzq0bw/uykN0EWpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCtwRCE13i/NpGyKWmcJcvv2jN7x+mcjWgQYEW2ygCkJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "68811063",
         "-1739798606"
       ],
-      "lt_id_sptag": [
-        "-564636969",
-        "936615491",
-        "-1811357781",
-        "-2139213873",
-        "1600730941",
-        "-143534545",
-        "410439701",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "844681876",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KemonoFriends_830215_crop2608_-1033232520",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxI2YAaIQq3SoxJWFCjbXHBmeEAkDxTiReb7E6WDLuo5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxI2YAaIQq3SoxJWFCjbXHrRCRLfkuO+tNNBX4fHxtK5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-2077965603",
-        "-1739798606"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-1952323799",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1808032732",
-      "id_img": "KemonoFriends_878578_crop2608_-1082913796",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2ln3jFB6B/ARpGaeQ5zl5dsStTfQn0w5gysz0y26/IpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2ln3jFB6B/ARpGaeQ5zl5itdpne2QWlJzw39R5dvWQZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-1739798606"
+      "list_id_nortag": [
+        "1519774681",
+        "925873873",
+        "865790219"
       ],
       "lt_id_sptag": [
+        "154003721",
         "-2139213873",
-        "-1782893951",
-        "-143380300",
-        "1600730941",
         "410439701",
         "1439812287",
         "1911583362"
@@ -95,7 +52,7 @@
     },
     {
       "hc_lt_id_alb": "-1952323799",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-2129827657",
       "hc_lt_id_sptag": "-1200717468",
       "id_img": "KemonoFriends_878578_crop2608_-1339299607",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieoyv5TBFk58Pavu26fbR5PIY8d8qHJyfD38T2+BOhz2JVy4706IhQgSYlgwrgVRHU=",
@@ -103,6 +60,11 @@
       "lt_id_alb": [
         "68811063",
         "-1739798606"
+      ],
+      "list_id_nortag": [
+        "-292277069",
+        "865790219",
+        "-1934011787"
       ],
       "lt_id_sptag": [
         "154003721",
@@ -117,8 +79,68 @@
       ]
     },
     {
+      "hc_lt_id_alb": "844681876",
+      "hc_lt_id_nortag": "-1745290547",
+      "hc_lt_id_sptag": "",
+      "id_img": "KemonoFriends_822098_crop2608_-1371561296",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieU8waQ51GdIWBt9xsgAgtXX50D1C58kaqun1+KYdV9XJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieU8waQ51GdIWBt9xsgAgtXsp6IWuUJbkx1259LO9GiIJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2077965603",
+        "-1739798606"
+      ],
+      "list_id_nortag": [
+        "1519774681",
+        "925873873",
+        "865790219"
+      ]
+    },
+    {
       "hc_lt_id_alb": "-1952323799",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-2129827657",
+      "hc_lt_id_sptag": "1808032732",
+      "id_img": "KemonoFriends_878578_crop2608_-1082913796",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2ln3jFB6B/ARpGaeQ5zl5dsStTfQn0w5gysz0y26/IpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic2ln3jFB6B/ARpGaeQ5zl5itdpne2QWlJzw39R5dvWQZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1739798606"
+      ],
+      "list_id_nortag": [
+        "-292277069",
+        "865790219",
+        "-1934011787"
+      ],
+      "lt_id_sptag": [
+        "-2139213873",
+        "-1782893951",
+        "-143380300",
+        "1600730941",
+        "410439701",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "844681876",
+      "hc_lt_id_nortag": "-1745290547",
+      "hc_lt_id_sptag": "",
+      "id_img": "KemonoFriends_830215_crop2608_-1033232520",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxI2YAaIQq3SoxJWFCjbXHBmeEAkDxTiReb7E6WDLuo5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxI2YAaIQq3SoxJWFCjbXHrRCRLfkuO+tNNBX4fHxtK5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2077965603",
+        "-1739798606"
+      ],
+      "list_id_nortag": [
+        "1519774681",
+        "925873873",
+        "865790219"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1952323799",
+      "hc_lt_id_nortag": "-2129827657",
       "hc_lt_id_sptag": "-1012797123",
       "id_img": "KemonoFriends_878578_crop2608_-1386311274",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieoMretL99OY8wBqOG9BhUGrvJIi+/SFcISHUUxU97KA5Vy4706IhQgSYlgwrgVRHU=",
@@ -126,6 +148,11 @@
       "lt_id_alb": [
         "68811063",
         "-1739798606"
+      ],
+      "list_id_nortag": [
+        "-292277069",
+        "865790219",
+        "-1934011787"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -140,7 +167,35 @@
     },
     {
       "hc_lt_id_alb": "-1952323799",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1208495934",
+      "hc_lt_id_sptag": "1661441435",
+      "id_img": "KemonoFriends_890745_crop2608_495051682",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifr40/7YxyEr0Csz7mOYGBeLOheD2/YwI7m+CjnrtRfLZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifr40/7YxyEr0Csz7mOYGBezg9jhz3as76g2IMs8Nf745Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-1739798606"
+      ],
+      "list_id_nortag": [
+        "883037240",
+        "1519774681",
+        "925873873",
+        "865790219"
+      ],
+      "lt_id_sptag": [
+        "-564636969",
+        "936615491",
+        "-1811357781",
+        "-2139213873",
+        "1600730941",
+        "-143534545",
+        "410439701",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-1952323799",
+      "hc_lt_id_nortag": "-1745290547",
       "hc_lt_id_sptag": "456840510",
       "id_img": "KemonoFriends_890169_crop2608_-366458415",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSPCU+yD5fcPUGrzdoGILx9VQfZ7S/jGpXyyEh28jw7ZVy4706IhQgSYlgwrgVRHU=",
@@ -149,6 +204,11 @@
         "68811063",
         "-1739798606"
       ],
+      "list_id_nortag": [
+        "1519774681",
+        "925873873",
+        "865790219"
+      ],
       "lt_id_sptag": [
         "-154622774",
         "-2139213873",
@@ -156,63 +216,46 @@
         "1439812287",
         "1911583362"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1934011787",
+      "name_nortag": "Fennec Kemono Friends",
+      "total_img": 22
     },
     {
-      "hc_lt_id_alb": "-1952323799",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-1037524073",
-      "id_img": "KemonoFriends_890169_crop2608_-989607916",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCtwRCE13i/NpGyKWmcJcvvc+fYmuOzq0bw/uykN0EWpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCtwRCE13i/NpGyKWmcJcvv2jN7x+mcjWgQYEW2ygCkJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "68811063",
-        "-1739798606"
-      ],
-      "lt_id_sptag": [
-        "154003721",
-        "-2139213873",
-        "410439701",
-        "1439812287",
-        "1911583362"
-      ]
+      "id_nortag": "883037240",
+      "name_nortag": "Heterochromia",
+      "total_img": 83
+    },
+    {
+      "id_nortag": "1519774681",
+      "name_nortag": "Kaban Kemono Friends",
+      "total_img": 43
+    },
+    {
+      "id_nortag": "865790219",
+      "name_nortag": "Lucky Beast Kemono Friends",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "-292277069",
+      "name_nortag": "Raccoon Kemono Friends",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "925873873",
+      "name_nortag": "Serval Kemono Friends",
+      "total_img": 55
     }
   ],
   "lt_sptag": [
-    {
-      "id_sptag": "-564636969",
-      "key_sptag": "isGirlSharpCanineToothAnime",
-      "name_sptag": "Girls Sharp Canine Tooth",
-      "total": 3202
-    },
-    {
-      "id_sptag": "936615491",
-      "key_sptag": "isGirlEyesOrangeAnime",
-      "name_sptag": "Girls Eyes Orange",
-      "total": 3828
-    },
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "-2139213873",
-      "key_sptag": "isGirlShortHairAnime",
-      "name_sptag": "Girls Short Hair",
-      "total": 23769
-    },
     {
       "id_sptag": "1600730941",
       "key_sptag": "isGirlCuteCool",
       "name_sptag": "Girls Cute Cool",
       "total": 31431
-    },
-    {
-      "id_sptag": "-143534545",
-      "key_sptag": "isGirlHairBlueAnime",
-      "name_sptag": "Girls Hair Blue",
-      "total": 9528
     },
     {
       "id_sptag": "410439701",
@@ -221,34 +264,16 @@
       "total": 7031
     },
     {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
       "id_sptag": "-1782893951",
       "key_sptag": "isGirlEyesBrownAnime",
       "name_sptag": "Girls Eyes Brown",
       "total": 9376
     },
     {
-      "id_sptag": "-143380300",
-      "key_sptag": "isGirlHairGreyAnime",
-      "name_sptag": "Girls Hair Grey",
-      "total": 9239
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "154003721",
-      "key_sptag": "isGirlHairYellowAnime",
-      "name_sptag": "Girls Hair Yellow",
-      "total": 12651
+      "id_sptag": "936615491",
+      "key_sptag": "isGirlEyesOrangeAnime",
+      "name_sptag": "Girls Eyes Orange",
+      "total": 3828
     },
     {
       "id_sptag": "635632331",
@@ -257,22 +282,70 @@
       "total": 1874
     },
     {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-143534545",
+      "key_sptag": "isGirlHairBlueAnime",
+      "name_sptag": "Girls Hair Blue",
+      "total": 9528
+    },
+    {
+      "id_sptag": "-143380300",
+      "key_sptag": "isGirlHairGreyAnime",
+      "name_sptag": "Girls Hair Grey",
+      "total": 9239
+    },
+    {
+      "id_sptag": "154003721",
+      "key_sptag": "isGirlHairYellowAnime",
+      "name_sptag": "Girls Hair Yellow",
+      "total": 12651
+    },
+    {
       "id_sptag": "-369535327",
       "key_sptag": "isGirlHatsAnime",
       "name_sptag": "Girls Hats",
       "total": 11965
     },
     {
+      "id_sptag": "-564636969",
+      "key_sptag": "isGirlSharpCanineToothAnime",
+      "name_sptag": "Girls Sharp Canine Tooth",
+      "total": 3202
+    },
+    {
+      "id_sptag": "-2139213873",
+      "key_sptag": "isGirlShortHairAnime",
+      "name_sptag": "Girls Short Hair",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
+    },
+    {
       "id_sptag": "1443397502",
       "key_sptag": "isGirlWitchAnime",
       "name_sptag": "Girls Witch",
       "total": 8338
-    },
-    {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
     }
   ]
 }

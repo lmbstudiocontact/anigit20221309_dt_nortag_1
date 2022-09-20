@@ -4,26 +4,73 @@
   "name_nortag": "Kuuko Nyaruko Crawling with Love",
   "total_img": 3,
   "total_page": 0,
-  "hc_lt_alb": "444153485",
-  "hc_lt_data_img": "1741687889",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "540010676",
+  "hc_lt_alb": "-1554472395",
+  "hc_lt_data_img": "-837058359",
+  "hc_lt_nortag": "26420489",
+  "hc_lt_sptag": "666789200",
   "lt_alb": [
-    {
-      "id_alb": "537365642",
-      "name_alb": "Nyaruko Crawling with Love",
-      "total_img": 10
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "537365642",
+      "name_alb": "Nyaruko Crawling with Love",
+      "total_img": 10
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "896807837",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1156718731",
+      "hc_lt_id_sptag": "1238589288",
+      "id_img": "NyarukoCrawlingwithLove_731505_crop2608_1519441254",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideAMrWT91Cl12k10pp2ZW7Du2XvDotbk7D5xlKU5leIZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideAMrWT91Cl12k10pp2ZW7KR/zLi6JIo7avIh86Yw7HZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "537365642",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "-1130298245"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-1364967268",
+        "-326078627",
+        "1600730941",
+        "-143162340",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "896807837",
+      "hc_lt_id_nortag": "1156718731",
+      "hc_lt_id_sptag": "1047119815",
+      "id_img": "NyarukoCrawlingwithLove_731505_crop2608_-1543369172",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfKXYUQ3lQnKggrnV/h6J1HPHfVUKGlAWzvP7N3ZoEG5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfKXYUQ3lQnKggrnV/h6J1m/vWZdS3oRZX/LUujnlQm5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "537365642",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "-1130298245"
+      ],
+      "lt_id_sptag": [
+        "891390002",
+        "-1364967268",
+        "-326078627",
+        "-143162340",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "896807837",
+      "hc_lt_id_nortag": "1156718731",
       "hc_lt_id_sptag": "-498206781",
       "id_img": "NyarukoCrawlingwithLove_731171_crop2608_-215373609",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8Xl95MbZh1dZh5uO9Fk0mV/hD1HldJS0b5WVXih2SL5Vy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +78,9 @@
       "lt_id_alb": [
         "537365642",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "-1130298245"
       ],
       "lt_id_sptag": [
         "82870",
@@ -41,73 +91,27 @@
         "-143162340",
         "1911583362"
       ]
-    },
+    }
+  ],
+  "lt_nortag": [
     {
-      "hc_lt_id_alb": "896807837",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1047119815",
-      "id_img": "NyarukoCrawlingwithLove_731505_crop2608_-1543369172",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfKXYUQ3lQnKggrnV/h6J1HPHfVUKGlAWzvP7N3ZoEG5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfKXYUQ3lQnKggrnV/h6J1m/vWZdS3oRZX/LUujnlQm5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "537365642",
-        "68811063"
-      ],
-      "lt_id_sptag": [
-        "891390002",
-        "-1364967268",
-        "-326078627",
-        "-143162340",
-        "1439812287",
-        "1911583362"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "896807837",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1238589288",
-      "id_img": "NyarukoCrawlingwithLove_731505_crop2608_1519441254",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideAMrWT91Cl12k10pp2ZW7Du2XvDotbk7D5xlKU5leIZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideAMrWT91Cl12k10pp2ZW7KR/zLi6JIo7avIh86Yw7HZVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "537365642",
-        "68811063"
-      ],
-      "lt_id_sptag": [
-        "891390002",
-        "-1364967268",
-        "-326078627",
-        "1600730941",
-        "-143162340",
-        "1439812287",
-        "1911583362"
-      ]
+      "id_nortag": "-1130298245",
+      "name_nortag": "Kuuko Nyaruko Crawling with Love",
+      "total_img": 3
     }
   ],
   "lt_sptag": [
-    {
-      "id_sptag": "82870",
-      "key_sptag": "isSad",
-      "name_sptag": "Sad",
-      "total": 12057
-    },
-    {
-      "id_sptag": "126637389",
-      "key_sptag": "isGirlSadAnime",
-      "name_sptag": "Girls Sad",
-      "total": 10506
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
     {
       "id_sptag": "1600730941",
       "key_sptag": "isGirlCuteCool",
       "name_sptag": "Girls Cute Cool",
       "total": 31431
+    },
+    {
+      "id_sptag": "-1364967268",
+      "key_sptag": "isGirlEyesRedAnime",
+      "name_sptag": "Girls Eyes Red",
+      "total": 12697
     },
     {
       "id_sptag": "1129122964",
@@ -122,10 +126,22 @@
       "total": 3081
     },
     {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "126637389",
+      "key_sptag": "isGirlSadAnime",
+      "name_sptag": "Girls Sad",
+      "total": 10506
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
     },
     {
       "id_sptag": "891390002",
@@ -134,16 +150,16 @@
       "total": 16308
     },
     {
-      "id_sptag": "-1364967268",
-      "key_sptag": "isGirlEyesRedAnime",
-      "name_sptag": "Girls Eyes Red",
-      "total": 12697
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     },
     {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
+      "id_sptag": "82870",
+      "key_sptag": "isSad",
+      "name_sptag": "Sad",
+      "total": 12057
     }
   ]
 }

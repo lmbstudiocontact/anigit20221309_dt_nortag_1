@@ -4,59 +4,62 @@
   "name_nortag": "Mary Grimgar of Fantasy and Ash",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "1596598718",
-  "hc_lt_data_img": "1848398565",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "2127103908",
+  "hc_lt_alb": "976555236",
+  "hc_lt_data_img": "136403079",
+  "hc_lt_nortag": "1822960686",
+  "hc_lt_sptag": "-1509036880",
   "lt_alb": [
-    {
-      "id_alb": "-883930719",
-      "name_alb": "Grimgar of Fantasy and Ash",
-      "total_img": 14
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-883930719",
+      "name_alb": "Grimgar of Fantasy and Ash",
+      "total_img": 14
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "120216078",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "543291918",
       "hc_lt_id_sptag": "",
       "id_img": "GrimgarofFantasyandAsh_682485_crop2608_-678832480",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiide/Xc+/XBA0ft+F4+j2WIhBsICXOoZm0R55erX/0ozx5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiide/Xc+/XBA0ft+F4+j2WIhjZ7FCe8yqGfQrtt2PpvI9pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-883930719"
+      ],
+      "list_id_nortag": [
+        "583443309",
+        "-1171878041",
+        "-1186733594",
+        "-1817174123",
+        "12152547"
       ]
     },
     {
       "hc_lt_id_alb": "120216078",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "543291918",
       "hc_lt_id_sptag": "",
       "id_img": "GrimgarofFantasyandAsh_682485_crop2608_1962405261",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtn3cWEvXnTx1ie3j1N64LJxq0WZnrlcQuJpIjVrcC6JVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtn3cWEvXnTx1ie3j1N64LuZ0CUK2PwW/YlBuvWETXVJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-883930719"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "120216078",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "GrimgarofFantasyandAsh_689560_crop2608_2097086574",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYoVGA+nTn7S5iPsO1D1JzPAOe0vbP/F8e4a1CYIDkdZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYoVGA+nTn7S5iPsO1D1JzuN0zEwjRpxRQo+DA4e60T5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-883930719"
+      ],
+      "list_id_nortag": [
+        "583443309",
+        "-1171878041",
+        "-1186733594",
+        "-1817174123",
+        "12152547"
       ]
     },
     {
       "hc_lt_id_alb": "-274782279",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1846617981",
       "hc_lt_id_sptag": "-1115303683",
       "id_img": "GrimgarofFantasyandAsh_787758_crop2608_-1907528272",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzeKTZ3bgI4EB3v1zPLEWnU2dlSr6OhFM+HbZ1m9Tj1pVy4706IhQgSYlgwrgVRHU=",
@@ -64,6 +67,9 @@
       "lt_id_alb": [
         "68811063",
         "-883930719"
+      ],
+      "list_id_nortag": [
+        "-1186733594"
       ],
       "lt_id_sptag": [
         "-1811357781",
@@ -75,14 +81,59 @@
         "1911583362",
         "635218351"
       ]
+    },
+    {
+      "hc_lt_id_alb": "120216078",
+      "hc_lt_id_nortag": "543291918",
+      "hc_lt_id_sptag": "",
+      "id_img": "GrimgarofFantasyandAsh_689560_crop2608_2097086574",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYoVGA+nTn7S5iPsO1D1JzPAOe0vbP/F8e4a1CYIDkdZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYoVGA+nTn7S5iPsO1D1JzuN0zEwjRpxRQo+DA4e60T5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-883930719"
+      ],
+      "list_id_nortag": [
+        "583443309",
+        "-1171878041",
+        "-1186733594",
+        "-1817174123",
+        "12152547"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1171878041",
+      "name_nortag": "Haruhiro Grimgar Of Fantasy And Ash",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "-1186733594",
+      "name_nortag": "Mary Grimgar of Fantasy and Ash",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-1817174123",
+      "name_nortag": "Ranta Grimgar Of Fantasy And Ash",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "12152547",
+      "name_nortag": "Shihoru Grimgar of Fantasy and Ash",
+      "total_img": 8
+    },
+    {
+      "id_nortag": "583443309",
+      "name_nortag": "Yume Grimgar of Fantasy and Ash",
+      "total_img": 11
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
+      "id_sptag": "-1436512555",
+      "key_sptag": "isDarkBlack",
+      "name_sptag": "Dark Black",
+      "total": 4051
     },
     {
       "id_sptag": "-369654561",
@@ -91,22 +142,22 @@
       "total": 3468
     },
     {
-      "id_sptag": "-1436512555",
-      "key_sptag": "isDarkBlack",
-      "name_sptag": "Dark Black",
-      "total": 4051
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
     },
     {
       "id_sptag": "-143534545",
       "key_sptag": "isGirlHairBlueAnime",
       "name_sptag": "Girls Hair Blue",
       "total": 9528
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
     },
     {
       "id_sptag": "1439812287",
@@ -121,10 +172,10 @@
       "total": 61257
     },
     {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

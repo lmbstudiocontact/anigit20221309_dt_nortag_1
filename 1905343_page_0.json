@@ -4,26 +4,26 @@
   "name_nortag": "Michiru Midori no Umi",
   "total_img": 4,
   "total_page": 0,
-  "hc_lt_alb": "1061074758",
-  "hc_lt_data_img": "311525359",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "756892518",
+  "hc_lt_alb": "-703287716",
+  "hc_lt_data_img": "-298476422",
+  "hc_lt_nortag": "-112794544",
+  "hc_lt_sptag": "-920422482",
   "lt_alb": [
-    {
-      "id_alb": "-1001000812",
-      "name_alb": "Midori No Umi",
-      "total_img": 12
-    },
     {
       "id_alb": "68811063",
       "name_alb": "Girls",
       "total_img": 68557
+    },
+    {
+      "id_alb": "-1001000812",
+      "name_alb": "Midori No Umi",
+      "total_img": 12
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1958448866",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1592876786",
       "hc_lt_id_sptag": "806804751",
       "id_img": "MidoriNoUmi_853519_crop2608_-299705511",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic+wjSs2V0VJ5W8t9CnNfwvKljO41/9dnDI4M/sIaYxG5Vy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,12 @@
       "lt_id_alb": [
         "-1001000812",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "1905343",
+        "650539786",
+        "-1847896172",
+        "-1986251440"
       ],
       "lt_id_sptag": [
         "-1782893951",
@@ -41,7 +47,30 @@
     },
     {
       "hc_lt_id_alb": "1958448866",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-2079139644",
+      "hc_lt_id_sptag": "-291049598",
+      "id_img": "MidoriNoUmi_853586_crop2608_1968806922",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgqWQt6dKXKSihhNiOgPDkwJW5TDLCW2SqCEZYkvERc5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgqWQt6dKXKSihhNiOgPDk/ALCY0IUavlivadUGKNUg5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-1001000812",
+        "68811063"
+      ],
+      "list_id_nortag": [
+        "1905343"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "891390002",
+        "-1782893951",
+        "-326078627",
+        "1439812287",
+        "1911583362"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "1958448866",
+      "hc_lt_id_nortag": "-1592876786",
       "hc_lt_id_sptag": "-6422807",
       "id_img": "MidoriNoUmi_853519_crop2608_1079732108",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4Tnf6RJZPDQ70dbnAulXLPRgfMEptZuOt+S7xH4whO5Vy4706IhQgSYlgwrgVRHU=",
@@ -49,6 +78,12 @@
       "lt_id_alb": [
         "-1001000812",
         "68811063"
+      ],
+      "list_id_nortag": [
+        "1905343",
+        "650539786",
+        "-1847896172",
+        "-1986251440"
       ],
       "lt_id_sptag": [
         "-564636969",
@@ -62,7 +97,7 @@
     },
     {
       "hc_lt_id_alb": "1958448866",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1774206996",
       "hc_lt_id_sptag": "191221135",
       "id_img": "MidoriNoUmi_853583_crop2608_1497054105",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3rAYmX9aYv0AYrVut9fJ64LJpZ6lBIjpTslIq04RVhpVy4706IhQgSYlgwrgVRHU=",
@@ -71,6 +106,10 @@
         "-1001000812",
         "68811063"
       ],
+      "list_id_nortag": [
+        "1905343",
+        "733079751"
+      ],
       "lt_id_sptag": [
         "-326078627",
         "1439812287",
@@ -78,76 +117,47 @@
         "635218351",
         "-143528947"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "733079751",
+      "name_nortag": "Kai Midori no Umi",
+      "total_img": 4
     },
     {
-      "hc_lt_id_alb": "1958448866",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "-291049598",
-      "id_img": "MidoriNoUmi_853586_crop2608_1968806922",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgqWQt6dKXKSihhNiOgPDkwJW5TDLCW2SqCEZYkvERc5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicgqWQt6dKXKSihhNiOgPDk/ALCY0IUavlivadUGKNUg5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-1001000812",
-        "68811063"
-      ],
-      "lt_id_sptag": [
-        "-154622774",
-        "891390002",
-        "-1782893951",
-        "-326078627",
-        "1439812287",
-        "1911583362"
-      ]
+      "id_nortag": "1905343",
+      "name_nortag": "Michiru Midori no Umi",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "650539786",
+      "name_nortag": "Miyuki Midori no Umi",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-1986251440",
+      "name_nortag": "Shiraha Midori no Umi",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-1847896172",
+      "name_nortag": "Tsumugi Midori no Umi",
+      "total_img": 4
     }
   ],
   "lt_sptag": [
-    {
-      "id_sptag": "-1782893951",
-      "key_sptag": "isGirlEyesBrownAnime",
-      "name_sptag": "Girls Eyes Brown",
-      "total": 9376
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
-    },
-    {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
-    },
-    {
-      "id_sptag": "-564636969",
-      "key_sptag": "isGirlSharpCanineToothAnime",
-      "name_sptag": "Girls Sharp Canine Tooth",
-      "total": 3202
-    },
-    {
-      "id_sptag": "-1811357781",
-      "key_sptag": "isGirlUniformAnime",
-      "name_sptag": "Girls Uniform",
-      "total": 16929
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
     {
       "id_sptag": "635218351",
       "key_sptag": "isGirlEyesBlueAnime",
       "name_sptag": "Girls Eyes Blue",
       "total": 25656
+    },
+    {
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
     },
     {
       "id_sptag": "-154622774",
@@ -156,10 +166,46 @@
       "total": 16737
     },
     {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "-564636969",
+      "key_sptag": "isGirlSharpCanineToothAnime",
+      "name_sptag": "Girls Sharp Canine Tooth",
+      "total": 3202
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
       "id_sptag": "891390002",
       "key_sptag": "isGirlStudentAnime",
       "name_sptag": "Girls Student",
       "total": 16308
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1811357781",
+      "key_sptag": "isGirlUniformAnime",
+      "name_sptag": "Girls Uniform",
+      "total": 16929
     }
   ]
 }

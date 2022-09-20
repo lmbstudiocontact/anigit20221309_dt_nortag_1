@@ -5,8 +5,8 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "968580082",
-  "hc_lt_data_img": "-279000080",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-2104876245",
+  "hc_lt_nortag": "804401451",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -28,7 +28,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1753034870",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1955760314",
       "hc_lt_id_sptag": "",
       "id_img": "Crossover_735122_crop2608_1665101320",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifKiydAAOnSUV4+yNNm9om9qC+nvrwkohbKX/n5R7YpOZVy4706IhQgSYlgwrgVRHU=",
@@ -36,11 +36,19 @@
       "lt_id_alb": [
         "66988",
         "-892807948"
+      ],
+      "list_id_nortag": [
+        "-1604554070",
+        "1992679946",
+        "266176693",
+        "1093716257",
+        "2599024",
+        "-1755046351"
       ]
     },
     {
       "hc_lt_id_alb": "-717388632",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-218935458",
       "hc_lt_id_sptag": "",
       "id_img": "DragonBallSuper_593278_crop2608_-1958440532",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXnHD9H9Dx0IOHsAHMWUb+pZ4cNHihVq5C1xLPozmemJVy4706IhQgSYlgwrgVRHU=",
@@ -48,7 +56,72 @@
       "lt_id_alb": [
         "-1433462233",
         "66988"
+      ],
+      "list_id_nortag": [
+        "-1604554070",
+        "2225266",
+        "-726228550",
+        "-779273876",
+        "-1796966291",
+        "2539444"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-726228550",
+      "name_nortag": "Beerus Dragon Ball",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "1992679946",
+      "name_nortag": "Blonde",
+      "total_img": 908
+    },
+    {
+      "id_nortag": "266176693",
+      "name_nortag": "Boku no Hero Academia",
+      "total_img": 50
+    },
+    {
+      "id_nortag": "-1755046351",
+      "name_nortag": "Denki Kaminari",
+      "total_img": 25
+    },
+    {
+      "id_nortag": "2225266",
+      "name_nortag": "Goku",
+      "total_img": 321
+    },
+    {
+      "id_nortag": "-1604554070",
+      "name_nortag": "Lightning",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "1093716257",
+      "name_nortag": "Pikachu",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "2539444",
+      "name_nortag": "Rain",
+      "total_img": 56
+    },
+    {
+      "id_nortag": "-779273876",
+      "name_nortag": "Super Saiyan God",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "2599024",
+      "name_nortag": "Tail",
+      "total_img": 78
+    },
+    {
+      "id_nortag": "-1796966291",
+      "name_nortag": "Tattoo",
+      "total_img": 18
     }
   ]
 }

@@ -5,8 +5,8 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "62688795",
-  "hc_lt_data_img": "140560446",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1399611510",
+  "hc_lt_nortag": "741024801",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -23,18 +23,21 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "967113210",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "47089432",
       "hc_lt_id_sptag": "",
       "id_img": "BlackBullet_534931_crop2608_-362997487",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidg8DIVjjM3LUL8f3AHXt/xwMcLMV/PD/h54uyWyPb7p5Vy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidg8DIVjjM3LUL8f3AHXt/xilhDDqqCuOy4iorr95mjQJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "834359427"
+      ],
+      "list_id_nortag": [
+        "-1099680528"
       ]
     },
     {
       "hc_lt_id_alb": "-32726145",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "104528228",
       "hc_lt_id_sptag": "",
       "id_img": "BlackBullet_633111_crop2608_-990223989",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifkf3lQXDFvUZG98JjYszBfx+EfDgAlGtLhv3Ppg2JSGJVy4706IhQgSYlgwrgVRHU=",
@@ -42,18 +45,55 @@
       "lt_id_alb": [
         "834359427",
         "66988"
+      ],
+      "list_id_nortag": [
+        "-1099680528",
+        "2390796"
       ]
     },
     {
       "hc_lt_id_alb": "967113210",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1771588219",
       "hc_lt_id_sptag": "",
       "id_img": "BlackBullet_701898_crop2608_962449219",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8ZjBi57OLltk13pv5z+gn2X/gEFgkqphO4SLLX6u/4ZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8ZjBi57OLltk13pv5z+gnKulWVbg2fTTyiyIEJrchfpVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "834359427"
+      ],
+      "list_id_nortag": [
+        "348971696",
+        "-961449885",
+        "152899324",
+        "-1099680528"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "152899324",
+      "name_nortag": "Enju Aihara",
+      "total_img": 20
+    },
+    {
+      "id_nortag": "-1099680528",
+      "name_nortag": "Kagetane Hiruko",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "-961449885",
+      "name_nortag": "Kisara Tendo",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "348971696",
+      "name_nortag": "Kohina Hiruko",
+      "total_img": 3
+    },
+    {
+      "id_nortag": "2390796",
+      "name_nortag": "Mask",
+      "total_img": 69
     }
   ]
 }

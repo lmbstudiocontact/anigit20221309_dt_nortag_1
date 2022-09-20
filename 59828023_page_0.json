@@ -5,8 +5,8 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-747243365",
-  "hc_lt_data_img": "-1709557760",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "-1806230496",
+  "hc_lt_nortag": "-871326062",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "765645735",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "1821656166",
       "hc_lt_id_sptag": "",
       "id_img": "ToukenRanbu_835109_crop2608_-2131973543",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCA5Tf8o4OlJ1pbwhPRPW/QTWygNW2nNY3gEH0pQijaZVy4706IhQgSYlgwrgVRHU=",
@@ -31,7 +31,23 @@
       "lt_id_alb": [
         "66988",
         "-1515232308"
+      ],
+      "list_id_nortag": [
+        "-756157813",
+        "59828023"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "59828023",
+      "name_nortag": "Honebami Toushirou",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "-756157813",
+      "name_nortag": "Namazuo Toushirou",
+      "total_img": 3
     }
   ]
 }

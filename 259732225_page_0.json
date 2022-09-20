@@ -5,9 +5,9 @@
   "total_img": 6,
   "total_page": 0,
   "hc_lt_alb": "51187170",
-  "hc_lt_data_img": "-1939057878",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-1306256561",
+  "hc_lt_data_img": "-1641267988",
+  "hc_lt_nortag": "-1748393684",
+  "hc_lt_sptag": "-2075394151",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,54 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-18006334",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1857327062",
+      "hc_lt_id_sptag": "1273936830",
+      "id_img": "KaguyasamaLoveisWar_1002967_crop2608_-490305846",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+zXi5f5Oej/NwkmYxjKM7gBg+AK14dq9/vftQoRXgkZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+zXi5f5Oej/NwkmYxjKM7+cNYfLEWGjCF+5GdIkxfpZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "68811063",
+        "-2066074802"
+      ],
+      "list_id_nortag": [
+        "1424446533",
+        "-1621703075",
+        "259732225",
+        "-842534291"
+      ],
+      "lt_id_sptag": [
+        "-154622774",
+        "891390002",
+        "-143120565",
+        "-1364967268",
+        "-326078627",
+        "1600730941",
+        "1439812287",
+        "1911583362",
+        "635218351"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "376992023",
+      "hc_lt_id_nortag": "-704078164",
+      "hc_lt_id_sptag": "",
+      "id_img": "KaguyasamaLoveisWar_998920_crop2608_-2041162176",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewq9ynHZ/CChPKL35LZPb4yZxGVjKdsn1rEEvU7h7GXZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewq9ynHZ/CChPKL35LZPb4ohkKRa+BdTojZ7kS92ckr5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2066074802"
+      ],
+      "list_id_nortag": [
+        "1424446533",
+        "180200184",
+        "-1621703075",
+        "259732225",
+        "-842534291"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-18006334",
+      "hc_lt_id_nortag": "-1857327062",
       "hc_lt_id_sptag": "365816878",
       "id_img": "KaguyasamaLoveisWar_1002967_crop2608_-2023841720",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieT5R8Tmd1fhw0O7yhZ1STjs43611IgwFR7zUVROSjX1ZVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +78,12 @@
       "lt_id_alb": [
         "68811063",
         "-2066074802"
+      ],
+      "list_id_nortag": [
+        "1424446533",
+        "-1621703075",
+        "259732225",
+        "-842534291"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -45,31 +98,44 @@
       ]
     },
     {
-      "hc_lt_id_alb": "-18006334",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "1273936830",
-      "id_img": "KaguyasamaLoveisWar_1002967_crop2608_-490305846",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+zXi5f5Oej/NwkmYxjKM7gBg+AK14dq9/vftQoRXgkZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+zXi5f5Oej/NwkmYxjKM7+cNYfLEWGjCF+5GdIkxfpZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_alb": "376992023",
+      "hc_lt_id_nortag": "-704078164",
+      "hc_lt_id_sptag": "",
+      "id_img": "KaguyasamaLoveisWar_998920_crop2608_846546469",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvYiESGl8MBleXK7i4vDALt1wOjCJY2IAy3BWQ4QZzvZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvYiESGl8MBleXK7i4vDALSybO1v/aYHS+QqXMhnrNPJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
-        "68811063",
         "-2066074802"
       ],
-      "lt_id_sptag": [
-        "-154622774",
-        "891390002",
-        "-143120565",
-        "-1364967268",
-        "-326078627",
-        "1600730941",
-        "1439812287",
-        "1911583362",
-        "635218351"
+      "list_id_nortag": [
+        "1424446533",
+        "180200184",
+        "-1621703075",
+        "259732225",
+        "-842534291"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "376992023",
+      "hc_lt_id_nortag": "-704078164",
+      "hc_lt_id_sptag": "",
+      "id_img": "KaguyasamaLoveisWar_998920_crop2608_-1027239982",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKQk0P7rOF1P8o3xIpOXllJsmAsbByoOkIQI8NHcKKk5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKQk0P7rOF1P8o3xIpOXlluWrtDR0rbiX48MWl76q4xJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-2066074802"
+      ],
+      "list_id_nortag": [
+        "1424446533",
+        "180200184",
+        "-1621703075",
+        "259732225",
+        "-842534291"
       ]
     },
     {
       "hc_lt_id_alb": "-18006334",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1857327062",
       "hc_lt_id_sptag": "-2088164154",
       "id_img": "KaguyasamaLoveisWar_1002967_crop2608_431463197",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieQb/CQr9Gy5kTclWiyOJF5VZhA2uWZFyJBco+i1l3nL5Vy4706IhQgSYlgwrgVRHU=",
@@ -77,6 +143,12 @@
       "lt_id_alb": [
         "68811063",
         "-2066074802"
+      ],
+      "list_id_nortag": [
+        "1424446533",
+        "-1621703075",
+        "259732225",
+        "-842534291"
       ],
       "lt_id_sptag": [
         "-154622774",
@@ -88,83 +160,41 @@
         "1911583362",
         "635218351"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1621703075",
+      "name_nortag": "Ai Hayasaka",
+      "total_img": 14
     },
     {
-      "hc_lt_id_alb": "376992023",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KaguyasamaLoveisWar_998920_crop2608_-1027239982",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKQk0P7rOF1P8o3xIpOXllJsmAsbByoOkIQI8NHcKKk5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieKQk0P7rOF1P8o3xIpOXlluWrtDR0rbiX48MWl76q4xJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-2066074802"
-      ]
+      "id_nortag": "-842534291",
+      "name_nortag": "Chika Fujiwara",
+      "total_img": 48
     },
     {
-      "hc_lt_id_alb": "376992023",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KaguyasamaLoveisWar_998920_crop2608_-2041162176",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewq9ynHZ/CChPKL35LZPb4yZxGVjKdsn1rEEvU7h7GXZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewq9ynHZ/CChPKL35LZPb4ohkKRa+BdTojZ7kS92ckr5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-2066074802"
-      ]
+      "id_nortag": "1424446533",
+      "name_nortag": "Kaguya Shinomiya",
+      "total_img": 62
     },
     {
-      "hc_lt_id_alb": "376992023",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "KaguyasamaLoveisWar_998920_crop2608_846546469",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvYiESGl8MBleXK7i4vDALt1wOjCJY2IAy3BWQ4QZzvZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvYiESGl8MBleXK7i4vDALSybO1v/aYHS+QqXMhnrNPJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-2066074802"
-      ]
+      "id_nortag": "259732225",
+      "name_nortag": "Miko Iino",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "180200184",
+      "name_nortag": "Miyuki Shirogane",
+      "total_img": 16
     }
   ],
   "lt_sptag": [
-    {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
-    },
-    {
-      "id_sptag": "-143120565",
-      "key_sptag": "isGirlHairPinkAnime",
-      "name_sptag": "Girls Hair Pink",
-      "total": 5690
-    },
-    {
-      "id_sptag": "-1782893951",
-      "key_sptag": "isGirlEyesBrownAnime",
-      "name_sptag": "Girls Eyes Brown",
-      "total": 9376
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
     {
       "id_sptag": "1600730941",
       "key_sptag": "isGirlCuteCool",
       "name_sptag": "Girls Cute Cool",
       "total": 31431
-    },
-    {
-      "id_sptag": "1439812287",
-      "key_sptag": "isGirlSmileAnime",
-      "name_sptag": "Girls Smile",
-      "total": 24284
-    },
-    {
-      "id_sptag": "1911583362",
-      "key_sptag": "isGirlTieBowsAnime",
-      "name_sptag": "Girls Tie Bows",
-      "total": 61257
     },
     {
       "id_sptag": "635218351",
@@ -173,16 +203,10 @@
       "total": 25656
     },
     {
-      "id_sptag": "-143528947",
-      "key_sptag": "isGirlHairBrownAnime",
-      "name_sptag": "Girls Hair Brow",
-      "total": 13760
-    },
-    {
-      "id_sptag": "-154622774",
-      "key_sptag": "isGirlHairBlackAnime",
-      "name_sptag": "Girls Hair Black",
-      "total": 16737
+      "id_sptag": "-1782893951",
+      "key_sptag": "isGirlEyesBrownAnime",
+      "name_sptag": "Girls Eyes Brown",
+      "total": 9376
     },
     {
       "id_sptag": "-1364967268",
@@ -191,10 +215,52 @@
       "total": 12697
     },
     {
+      "id_sptag": "-154622774",
+      "key_sptag": "isGirlHairBlackAnime",
+      "name_sptag": "Girls Hair Black",
+      "total": 16737
+    },
+    {
+      "id_sptag": "-143528947",
+      "key_sptag": "isGirlHairBrownAnime",
+      "name_sptag": "Girls Hair Brow",
+      "total": 13760
+    },
+    {
+      "id_sptag": "-143120565",
+      "key_sptag": "isGirlHairPinkAnime",
+      "name_sptag": "Girls Hair Pink",
+      "total": 5690
+    },
+    {
       "id_sptag": "154003721",
       "key_sptag": "isGirlHairYellowAnime",
       "name_sptag": "Girls Hair Yellow",
       "total": 12651
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1439812287",
+      "key_sptag": "isGirlSmileAnime",
+      "name_sptag": "Girls Smile",
+      "total": 24284
+    },
+    {
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
+    },
+    {
+      "id_sptag": "1911583362",
+      "key_sptag": "isGirlTieBowsAnime",
+      "name_sptag": "Girls Tie Bows",
+      "total": 61257
     }
   ]
 }

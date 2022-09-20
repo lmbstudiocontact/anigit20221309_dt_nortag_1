@@ -5,9 +5,9 @@
   "total_img": 1,
   "total_page": 0,
   "hc_lt_alb": "-806229403",
-  "hc_lt_data_img": "799659959",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "821149993",
+  "hc_lt_data_img": "-1826063045",
+  "hc_lt_nortag": "-299561383",
+  "hc_lt_sptag": "-993431005",
   "lt_alb": [
     {
       "id_alb": "68811063",
@@ -23,7 +23,7 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-938714977",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "151729005",
       "hc_lt_id_sptag": "-1459467179",
       "id_img": "ImoutosaeIrebaIi_900988_crop2608_1985277750",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifsU0TiHXVQSzEy3ACDZSvc9j7LaLvRCwzOvhmIZU8BCpVy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,9 @@
       "lt_id_alb": [
         "68811063",
         "-2002782647"
+      ],
+      "list_id_nortag": [
+        "-451290389"
       ],
       "lt_id_sptag": [
         "-120608061",
@@ -41,12 +44,19 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-451290389",
+      "name_nortag": "Miyako Shirakawa",
+      "total_img": 1
+    }
+  ],
   "lt_sptag": [
     {
-      "id_sptag": "-120608061",
-      "key_sptag": "isGirlHairOrangeAnime",
-      "name_sptag": "Girls Hair Orange",
-      "total": 4128
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
     },
     {
       "id_sptag": "-1364967268",
@@ -55,16 +65,16 @@
       "total": 12697
     },
     {
+      "id_sptag": "-120608061",
+      "key_sptag": "isGirlHairOrangeAnime",
+      "name_sptag": "Girls Hair Orange",
+      "total": 4128
+    },
+    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
-    },
-    {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
     },
     {
       "id_sptag": "1439812287",

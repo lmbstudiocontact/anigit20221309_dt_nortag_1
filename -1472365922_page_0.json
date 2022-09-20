@@ -5,9 +5,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "1964891881",
-  "hc_lt_data_img": "1188937196",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "2104618543",
+  "hc_lt_data_img": "-1303257952",
+  "hc_lt_nortag": "1923702737",
+  "hc_lt_sptag": "1535449725",
   "lt_alb": [
     {
       "id_alb": "-196492293",
@@ -22,19 +22,8 @@
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "-139700097",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "FairyTail_697958_crop2608_2001880180",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIGvinpIrroVyDPKkspbb6YZobzhUoA3hzOFpM4g+37JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIGvinpIrroVyDPKkspbb6UNUhJOm0wbxNi38J59d/X5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "-196492293"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-534698454",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "927900182",
       "hc_lt_id_sptag": "1643223144",
       "id_img": "FairyTail_748054_crop2608_-506749664",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicG2Ci6hLWREelffUt8tKD3w7Kcy7j8euh7H3syd6KrDZVy4706IhQgSYlgwrgVRHU=",
@@ -42,6 +31,10 @@
       "lt_id_alb": [
         "68811063",
         "-196492293"
+      ],
+      "list_id_nortag": [
+        "-1472365922",
+        "1308268892"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -56,8 +49,36 @@
       ]
     },
     {
+      "hc_lt_id_alb": "-139700097",
+      "hc_lt_id_nortag": "1795528302",
+      "hc_lt_id_sptag": "",
+      "id_img": "FairyTail_697958_crop2608_2001880180",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIGvinpIrroVyDPKkspbb6YZobzhUoA3hzOFpM4g+37JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIGvinpIrroVyDPKkspbb6UNUhJOm0wbxNi38J59d/X5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "-196492293"
+      ],
+      "list_id_nortag": [
+        "-1731991486",
+        "-890365842",
+        "-1472365922",
+        "-2127658291",
+        "-1873931185",
+        "1308268892",
+        "609489250",
+        "-468057617",
+        "-614728357",
+        "965316551",
+        "-1165565134",
+        "471516855",
+        "-350820648",
+        "715322496",
+        "-1423792881"
+      ]
+    },
+    {
       "hc_lt_id_alb": "-534698454",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "211412625",
       "hc_lt_id_sptag": "1901760611",
       "id_img": "FairyTail_764270_crop2608_1742907106",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHdIrMvN/d3fNVrvtKBPsJ/AM4q0t995krzjJpMKpqDJVy4706IhQgSYlgwrgVRHU=",
@@ -65,6 +86,9 @@
       "lt_id_alb": [
         "68811063",
         "-196492293"
+      ],
+      "list_id_nortag": [
+        "-1472365922"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -77,7 +101,7 @@
     },
     {
       "hc_lt_id_alb": "-534698454",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "211412625",
       "hc_lt_id_sptag": "-167417837",
       "id_img": "FairyTail_828496_crop2608_-1430359041",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6CscTIpJQfYAwFawLQhIkCaKg1qwEKvQYQh5aczjoupVy4706IhQgSYlgwrgVRHU=",
@@ -85,6 +109,9 @@
       "lt_id_alb": [
         "68811063",
         "-196492293"
+      ],
+      "list_id_nortag": [
+        "-1472365922"
       ],
       "lt_id_sptag": [
         "-14067806",
@@ -95,7 +122,114 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "471516855",
+      "name_nortag": "Charles Fairy Tail",
+      "total_img": 9
+    },
+    {
+      "id_nortag": "715322496",
+      "name_nortag": "Elfman Strauss",
+      "total_img": 1
+    },
+    {
+      "id_nortag": "-890365842",
+      "name_nortag": "Erza Scarlet",
+      "total_img": 39
+    },
+    {
+      "id_nortag": "-1731991486",
+      "name_nortag": "Gajeel Redfox",
+      "total_img": 19
+    },
+    {
+      "id_nortag": "-2127658291",
+      "name_nortag": "Gray Fullbuster",
+      "total_img": 32
+    },
+    {
+      "id_nortag": "-614728357",
+      "name_nortag": "Happy Fairy Tail",
+      "total_img": 28
+    },
+    {
+      "id_nortag": "-350820648",
+      "name_nortag": "Juvia Lockser",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "-1165565134",
+      "name_nortag": "Laxus Dreyar",
+      "total_img": 14
+    },
+    {
+      "id_nortag": "-1423792881",
+      "name_nortag": "Levy McGarden",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "1308268892",
+      "name_nortag": "Lucy Heartfilia",
+      "total_img": 58
+    },
+    {
+      "id_nortag": "965316551",
+      "name_nortag": "Mavis Vermilion",
+      "total_img": 6
+    },
+    {
+      "id_nortag": "-1472365922",
+      "name_nortag": "Mirajane Strauss",
+      "total_img": 4
+    },
+    {
+      "id_nortag": "-1873931185",
+      "name_nortag": "Natsu Dragneel",
+      "total_img": 117
+    },
+    {
+      "id_nortag": "-468057617",
+      "name_nortag": "Panther Lily Fairy Tail",
+      "total_img": 7
+    },
+    {
+      "id_nortag": "609489250",
+      "name_nortag": "Wendy Marvell",
+      "total_img": 16
+    }
+  ],
   "lt_sptag": [
+    {
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-1783086774",
+      "key_sptag": "isGirlEyesBlackAnime",
+      "name_sptag": "Girls Eyes Black",
+      "total": 5810
+    },
+    {
+      "id_sptag": "635218351",
+      "key_sptag": "isGirlEyesBlueAnime",
+      "name_sptag": "Girls Eyes Blue",
+      "total": 25656
+    },
+    {
+      "id_sptag": "635372596",
+      "key_sptag": "isGirlEyesGreyAnime",
+      "name_sptag": "Girls Eyes Grey",
+      "total": 2483
+    },
+    {
+      "id_sptag": "1211227273",
+      "key_sptag": "isGirlEyesYellowAnime",
+      "name_sptag": "Girls Eyes Yellow",
+      "total": 6605
+    },
     {
       "id_sptag": "-14067806",
       "key_sptag": "isGirlHairSilverAnime",
@@ -115,22 +249,10 @@
       "total": 12651
     },
     {
-      "id_sptag": "1211227273",
-      "key_sptag": "isGirlEyesYellowAnime",
-      "name_sptag": "Girls Eyes Yellow",
-      "total": 6605
-    },
-    {
       "id_sptag": "-326078627",
       "key_sptag": "isGirlLongHairAnime",
       "name_sptag": "Girls Long Hair",
       "total": 47407
-    },
-    {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
     },
     {
       "id_sptag": "1439812287",
@@ -143,24 +265,6 @@
       "key_sptag": "isGirlTieBowsAnime",
       "name_sptag": "Girls Tie Bows",
       "total": 61257
-    },
-    {
-      "id_sptag": "635218351",
-      "key_sptag": "isGirlEyesBlueAnime",
-      "name_sptag": "Girls Eyes Blue",
-      "total": 25656
-    },
-    {
-      "id_sptag": "635372596",
-      "key_sptag": "isGirlEyesGreyAnime",
-      "name_sptag": "Girls Eyes Grey",
-      "total": 2483
-    },
-    {
-      "id_sptag": "-1783086774",
-      "key_sptag": "isGirlEyesBlackAnime",
-      "name_sptag": "Girls Eyes Black",
-      "total": 5810
     }
   ]
 }

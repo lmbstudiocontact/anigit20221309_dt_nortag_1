@@ -5,8 +5,8 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-8670024",
-  "hc_lt_data_img": "-808268282",
-  "hc_lt_nortag": "",
+  "hc_lt_data_img": "1720692454",
+  "hc_lt_nortag": "115706831",
   "hc_lt_sptag": "",
   "lt_alb": [
     {
@@ -18,25 +18,45 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "1121452913",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1171482031",
       "hc_lt_id_sptag": "",
       "id_img": "MoujuutsukaitoOujisama_833138_crop2608_-1650559783",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieD4K712LtNaL2r2ZJzJqsaF3Lg+ucVqckK+P1uvwb0upVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieD4K712LtNaL2r2ZJzJqsahruXIgd0S0wHVdS0dSgd05Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1130122944"
+      ],
+      "list_id_nortag": [
+        "8116001",
+        "1161553957"
       ]
     },
     {
       "hc_lt_id_alb": "1121452913",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-1171482031",
       "hc_lt_id_sptag": "",
       "id_img": "MoujuutsukaitoOujisama_833138_crop2608_-561921812",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievQS+7/tBLQtvLIqts+a+PRxANfQjbPkbnTCdW8bU7eJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiievQS+7/tBLQtvLIqts+a+P7zVBLZgAfTgvvNCT9PIk25Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "-1130122944"
+      ],
+      "list_id_nortag": [
+        "8116001",
+        "1161553957"
       ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1161553957",
+      "name_nortag": "Matheus Moujuutsukai to Oujisama",
+      "total_img": 2
+    },
+    {
+      "id_nortag": "8116001",
+      "name_nortag": "Tiana Moujuutsukai to Oujisama",
+      "total_img": 4
     }
   ]
 }

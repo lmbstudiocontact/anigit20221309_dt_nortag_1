@@ -4,26 +4,26 @@
   "name_nortag": "Mashu c The Money Of Soul And Possibility Control",
   "total_img": 1,
   "total_page": 0,
-  "hc_lt_alb": "-2128312025",
-  "hc_lt_data_img": "-796611161",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-752207272",
+  "hc_lt_alb": "-165005861",
+  "hc_lt_data_img": "1853168702",
+  "hc_lt_nortag": "-172162990",
+  "hc_lt_sptag": "-547865576",
   "lt_alb": [
-    {
-      "id_alb": "68811063",
-      "name_alb": "Girls",
-      "total_img": 68557
-    },
     {
       "id_alb": "1688714903",
       "name_alb": "C The Money Of Soul And Possibility Control",
       "total_img": 3
+    },
+    {
+      "id_alb": "68811063",
+      "name_alb": "Girls",
+      "total_img": 68557
     }
   ],
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-1657327855",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-12191442",
       "hc_lt_id_sptag": "602272706",
       "id_img": "CTheMoneyOfSoulAndPossibilityControl_878345_crop2608_1721681717",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIEVmFiMET0i8tlHkgqCVVsTa2xZzwMtqy+B3mvUF6F5Vy4706IhQgSYlgwrgVRHU=",
@@ -31,6 +31,9 @@
       "lt_id_alb": [
         "68811063",
         "1688714903"
+      ],
+      "list_id_nortag": [
+        "-159971549"
       ],
       "lt_id_sptag": [
         "1429721863",
@@ -40,19 +43,14 @@
       ]
     }
   ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-159971549",
+      "name_nortag": "Mashu c The Money Of Soul And Possibility Control",
+      "total_img": 1
+    }
+  ],
   "lt_sptag": [
-    {
-      "id_sptag": "1429721863",
-      "key_sptag": "isGirlHornsAnime",
-      "name_sptag": "Girls Horns",
-      "total": 2031
-    },
-    {
-      "id_sptag": "-326078627",
-      "key_sptag": "isGirlLongHairAnime",
-      "name_sptag": "Girls Long Hair",
-      "total": 47407
-    },
     {
       "id_sptag": "635218351",
       "key_sptag": "isGirlEyesBlueAnime",
@@ -64,6 +62,18 @@
       "key_sptag": "isGirlHairBrownAnime",
       "name_sptag": "Girls Hair Brow",
       "total": 13760
+    },
+    {
+      "id_sptag": "1429721863",
+      "key_sptag": "isGirlHornsAnime",
+      "name_sptag": "Girls Horns",
+      "total": 2031
+    },
+    {
+      "id_sptag": "-326078627",
+      "key_sptag": "isGirlLongHairAnime",
+      "name_sptag": "Girls Long Hair",
+      "total": 47407
     }
   ]
 }

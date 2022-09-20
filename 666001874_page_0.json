@@ -5,9 +5,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-722545245",
-  "hc_lt_data_img": "-1397955165",
-  "hc_lt_nortag": "",
-  "hc_lt_sptag": "-580524646",
+  "hc_lt_data_img": "-36474041",
+  "hc_lt_nortag": "1085430076",
+  "hc_lt_sptag": "254170740",
   "lt_alb": [
     {
       "id_alb": "2024260576",
@@ -27,20 +27,8 @@
   ],
   "lt_data_img": [
     {
-      "hc_lt_id_alb": "1479189462",
-      "hc_lt_id_nortag": "",
-      "hc_lt_id_sptag": "",
-      "id_img": "Gamers_860437_crop2608_-2043200604",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpUb2TKmPopuaafCJoRDAbi8xTrrP9dyF54CJrLsbvO5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpUb2TKmPopuaafCJoRDAbfR6hnLZO3RL7QaHREdLqupVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "2024260576",
-        "2125599187"
-      ]
-    },
-    {
       "hc_lt_id_alb": "-1690703417",
-      "hc_lt_id_nortag": "",
+      "hc_lt_id_nortag": "-611117028",
       "hc_lt_id_sptag": "-1761589449",
       "id_img": "Gamers_860456_crop2608_-276853471",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffwL0u0sPSzbBxt2TZ8LhAHYgV0ZqlyLjD52p/INJVbZVy4706IhQgSYlgwrgVRHU=",
@@ -48,6 +36,12 @@
       "lt_id_alb": [
         "68811063",
         "2125599187"
+      ],
+      "list_id_nortag": [
+        "-938874552",
+        "1056828365",
+        "666001874",
+        "144864994"
       ],
       "lt_id_sptag": [
         "891390002",
@@ -57,14 +51,58 @@
         "-1783086774",
         "1911583362"
       ]
+    },
+    {
+      "hc_lt_id_alb": "1479189462",
+      "hc_lt_id_nortag": "1942109965",
+      "hc_lt_id_sptag": "",
+      "id_img": "Gamers_860437_crop2608_-2043200604",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpUb2TKmPopuaafCJoRDAbi8xTrrP9dyF54CJrLsbvO5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpUb2TKmPopuaafCJoRDAbfR6hnLZO3RL7QaHREdLqupVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "2024260576",
+        "2125599187"
+      ],
+      "list_id_nortag": [
+        "-938874552",
+        "666001874"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "1056828365",
+      "name_nortag": "Aguri Gamers",
+      "total_img": 5
+    },
+    {
+      "id_nortag": "144864994",
+      "name_nortag": "Chiaki Hoshinomori",
+      "total_img": 10
+    },
+    {
+      "id_nortag": "-938874552",
+      "name_nortag": "Karen Tendou",
+      "total_img": 18
+    },
+    {
+      "id_nortag": "666001874",
+      "name_nortag": "Keita Amano",
+      "total_img": 2
     }
   ],
   "lt_sptag": [
     {
-      "id_sptag": "891390002",
-      "key_sptag": "isGirlStudentAnime",
-      "name_sptag": "Girls Student",
-      "total": 16308
+      "id_sptag": "1600730941",
+      "key_sptag": "isGirlCuteCool",
+      "name_sptag": "Girls Cute Cool",
+      "total": 31431
+    },
+    {
+      "id_sptag": "-1783086774",
+      "key_sptag": "isGirlEyesBlackAnime",
+      "name_sptag": "Girls Eyes Black",
+      "total": 5810
     },
     {
       "id_sptag": "-143120565",
@@ -79,16 +117,10 @@
       "total": 47407
     },
     {
-      "id_sptag": "1600730941",
-      "key_sptag": "isGirlCuteCool",
-      "name_sptag": "Girls Cute Cool",
-      "total": 31431
-    },
-    {
-      "id_sptag": "-1783086774",
-      "key_sptag": "isGirlEyesBlackAnime",
-      "name_sptag": "Girls Eyes Black",
-      "total": 5810
+      "id_sptag": "891390002",
+      "key_sptag": "isGirlStudentAnime",
+      "name_sptag": "Girls Student",
+      "total": 16308
     },
     {
       "id_sptag": "1911583362",
